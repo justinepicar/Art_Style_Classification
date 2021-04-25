@@ -1,1 +1,5 @@
 raw_images/
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+.idea/
