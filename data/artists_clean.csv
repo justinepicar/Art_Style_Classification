@@ -1,51 +1,51 @@
-,name,genre,paintings,% of paintings
-0,Amedeo_Modigliani,Expressionism,193,2.29
-1,Vasiliy_Kandinskiy,"Expressionism,Abstractionism",88,1.04
-2,Diego_Rivera,"Social Realism,Muralism",70,0.83
-3,Claude_Monet,Impressionism,73,0.86
-4,Rene_Magritte,"Surrealism,Impressionism",194,2.3
-5,Salvador_Dali,Surrealism,139,1.65
-6,Edouard_Manet,"Realism,Impressionism",90,1.07
-7,Andrei_Rublev,Byzantine Art,99,1.17
-8,Vincent_van_Gogh,Post-Impressionism,877,10.38
-9,Gustav_Klimt,"Symbolism,Art Nouveau",117,1.39
-10,Hieronymus_Bosch,Northern Renaissance,137,1.62
-11,Kazimir_Malevich,Suprematism,126,1.49
-12,Mikhail_Vrubel,Symbolism,171,2.02
-13,Pablo_Picasso,Cubism,439,5.2
-14,Peter_Paul_Rubens,Baroque,141,1.67
-15,Pierre-Auguste_Renoir,Impressionism,336,3.98
-16,Francisco_Goya,Romanticism,291,3.45
-17,Frida_Kahlo,"Primitivism,Surrealism",120,1.42
-18,El_Greco,Mannerism,87,1.03
-19,Albrecht_Durer,Northern Renaissance,328,3.88
-20,Alfred_Sisley,Impressionism,259,3.07
-21,Pieter_Bruegel,Northern Renaissance,134,1.59
-22,Marc_Chagall,Primitivism,239,2.83
-23,Giotto_di_Bondone,Proto Renaissance,119,1.41
-24,Sandro_Botticelli,Early Renaissance,164,1.94
-25,Caravaggio,Baroque,55,0.65
-26,Leonardo_da_Vinci,High Renaissance,143,1.69
-27,Diego_Velazquez,Baroque,128,1.52
-28,Henri_Matisse,"Impressionism,Post-Impressionism",186,2.2
-29,Jan_van_Eyck,Northern Renaissance,81,0.96
-30,Edgar_Degas,Impressionism,702,8.31
-31,Rembrandt,Baroque,262,3.1
-32,Titian,"High Renaissance,Mannerism",255,3.02
-33,Henri_de_Toulouse-Lautrec,Post-Impressionism,81,0.96
-34,Gustave_Courbet,Realism,59,0.7
-35,Camille_Pissarro,"Impressionism,Post-Impressionism",91,1.08
-36,William_Turner,Romanticism,66,0.78
-37,Edvard_Munch,"Symbolism,Expressionism",67,0.79
-38,Paul_Cezanne,Post-Impressionism,47,0.56
-39,Eugene_Delacroix,Romanticism,31,0.37
-40,Henri_Rousseau,Primitivism,70,0.83
-41,Georges_Seurat,Post-Impressionism,43,0.51
-42,Paul_Klee,"Expressionism,Abstractionism,Surrealism",188,2.23
-43,Piet_Mondrian,Neoplasticism,84,0.99
-44,Joan_Miro,Surrealism,102,1.21
-45,Andy_Warhol,Pop Art,181,2.14
-46,Paul_Gauguin,"Symbolism,Post-Impressionism",311,3.68
-47,Raphael,High Renaissance,109,1.29
-48,Michelangelo,High Renaissance,49,0.58
-49,Jackson_Pollock,Abstract Expressionism,24,0.28
+,name,genre,paintings
+0,Amedeo_Modigliani,Expressionism,193
+1,Vasiliy_Kandinskiy,"Expressionism,Abstractionism",88
+2,Diego_Rivera,"Social Realism,Muralism",70
+3,Claude_Monet,Impressionism,73
+4,Rene_Magritte,"Surrealism,Impressionism",194
+5,Salvador_Dali,Surrealism,139
+6,Edouard_Manet,"Realism,Impressionism",90
+7,Andrei_Rublev,Byzantine Art,99
+8,Vincent_van_Gogh,Post-Impressionism,877
+9,Gustav_Klimt,"Symbolism,Art Nouveau",117
+10,Hieronymus_Bosch,Northern Renaissance,137
+11,Kazimir_Malevich,Suprematism,126
+12,Mikhail_Vrubel,Symbolism,171
+13,Pablo_Picasso,Cubism,439
+14,Peter_Paul_Rubens,Baroque,141
+15,Pierre-Auguste_Renoir,Impressionism,336
+16,Francisco_Goya,Romanticism,291
+17,Frida_Kahlo,"Primitivism,Surrealism",120
+18,El_Greco,Mannerism,87
+19,Albrecht_Durer,Northern Renaissance,328
+20,Alfred_Sisley,Impressionism,259
+21,Pieter_Bruegel,Northern Renaissance,134
+22,Marc_Chagall,Primitivism,239
+23,Giotto_di_Bondone,Proto Renaissance,119
+24,Sandro_Botticelli,Early Renaissance,164
+25,Caravaggio,Baroque,55
+26,Leonardo_da_Vinci,High Renaissance,143
+27,Diego_Velazquez,Baroque,128
+28,Henri_Matisse,"Impressionism,Post-Impressionism",186
+29,Jan_van_Eyck,Northern Renaissance,81
+30,Edgar_Degas,Impressionism,702
+31,Rembrandt,Baroque,262
+32,Titian,"High Renaissance,Mannerism",255
+33,Henri_de_Toulouse-Lautrec,Post-Impressionism,81
+34,Gustave_Courbet,Realism,59
+35,Camille_Pissarro,"Impressionism,Post-Impressionism",91
+36,William_Turner,Romanticism,66
+37,Edvard_Munch,"Symbolism,Expressionism",67
+38,Paul_Cezanne,Post-Impressionism,47
+39,Eugene_Delacroix,Romanticism,31
+40,Henri_Rousseau,Primitivism,70
+41,Georges_Seurat,Post-Impressionism,43
+42,Paul_Klee,"Expressionism,Abstractionism,Surrealism",188
+43,Piet_Mondrian,Neoplasticism,84
+44,Joan_Miro,Surrealism,102
+45,Andy_Warhol,Pop Art,181
+46,Paul_Gauguin,"Symbolism,Post-Impressionism",311
+47,Raphael,High Renaissance,109
+48,Michelangelo,High Renaissance,49
+49,Jackson_Pollock,Abstract Expressionism,24

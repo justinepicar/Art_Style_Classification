@@ -3,7 +3,16 @@ import os
 import shutil
 import numpy as np
 
+def create_new_folder(path):
+    if not os.path.exists(path):
+        os.makedirs(path)
+        print(path + ' created')
+    else:
+        print(path + ' path already exists')
+    return None
+
 def clear_old_images(path, df):
+
     num_skipped = 0
 
     for i in range(len(df)):
@@ -12,17 +21,16 @@ def clear_old_images(path, df):
             for fname in os.listdir(imgpath):
                 if not fname.startswith('.'):
                     fpath = os.path.join(imgpath, fname)
-                    #print(fpath)
                     num_skipped += 1
                     #Delete image
                     os.remove(fpath)
 
-    print(f'Deleted {num_skipped} images') #from % imagepath
+    print(f'Deleted {num_skipped} images')
 
     return None
 
 
-def get_random_imgs(oldpath, newpath, df, qty):
+def get_random_imgs(oldpath, newpath, df, perc):
     '''
     generate a random sample of files with
     at most the given qty from each artist
@@ -33,22 +41,18 @@ def get_random_imgs(oldpath, newpath, df, qty):
     copied = 0
 
     for i in range(len(df)):
-        rawpath = os.path.join(oldpath, df.name[i]) #not the issue
-        imgpath = os.path.join(newpath, df.genre[i])  # not the issue
-        files = [f for f in os.listdir(rawpath)]  # if os.path.isdir(f)]
-        sample = int(round(qty * df['% of paintings'][i])) #not the issue
-        if len(os.listdir(rawpath)) >= sample:
-            random_files = np.random.choice(files, sample)
-        else:
-            random_files = os.listdir(rawpath)
-        # check if folder exists; if it exists, clear any old residual images before new samples
-        if not os.path.exists(newpath):
-            create_new_folder(imgpath)
+        rawpath = os.path.join(oldpath, df.name[i])
+        imgpath = os.path.join(newpath, df.genre[i])
+        files = [f for f in os.listdir(rawpath)]
+        sample = round(perc * df.paintings[i])
+        random_files = np.random.choice(files, sample, replace=False)
+        # check if folder exists; if not, create a new folder
+        create_new_folder(imgpath)
         #create a dataframe to return label and filename
         for copy in random_files:
             path_to_copy = os.path.join(rawpath, copy)
             shutil.copy(path_to_copy, imgpath)
-            sample_list.append([df.genre[i], copy])  # append(path_to_copy) #df.genre[i] and copy
+            sample_list.append([df.genre[i], os.path.join(imgpath, copy)])
             copied += 1
 
     print(f'Generated {copied} new images')
