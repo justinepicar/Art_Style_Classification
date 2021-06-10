@@ -9,6 +9,9 @@ def create_new_folder(path):
     :param path: Path where folder is created
     :return: None
     '''
+
+    print(f'Checking if {path} exists...')
+
     if not os.path.exists(path):
         os.makedirs(path)
         print(path + ' created')
@@ -36,7 +39,7 @@ def clear_old_images(path):
     print(f'Deleted {num_skipped} images')
 
 
-def get_images(oldpath, newpath, df, genres, frac):
+def get_sample(oldpath, newpath, df, genres, frac):
     '''
     Gets sample of images and sorts them with folders
     labeled by genre
@@ -71,7 +74,7 @@ def get_image_info(directory):
         return: list of labels, filename, full_path'''
 
     labels = []
-    full_path = []
+    fullpath = []
     filename = []
 
     for folder_name in os.listdir(directory):
@@ -83,7 +86,4 @@ def get_image_info(directory):
                 fullpath.append(fpath)
                 labels.append(folder_name)
 
-    partialpath = get_directory(directory)
-    classfolders = get_class_folder(directory)
-
-    return [labels, filename, full_path]
+    return [labels, filename, fullpath]
