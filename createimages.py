@@ -4,6 +4,11 @@ import shutil
 import numpy as np
 
 def create_new_folder(path):
+    '''
+    Creates a new folder under given path, if it doesn't already exist
+    :param path: Path where folder is created
+    :return: None
+    '''
     if not os.path.exists(path):
         os.makedirs(path)
         print(path + ' created')
@@ -12,6 +17,11 @@ def create_new_folder(path):
 #    return None
 
 def clear_old_images(path):
+    '''
+    Clears sample of images from each class before resampling a new batch
+    :param path: Gives path of folder that will be cleared of images
+    :return: None
+    '''
     num_skipped = 0
 
     for folder_name in os.listdir(path):
@@ -27,6 +37,17 @@ def clear_old_images(path):
 
 
 def get_images(oldpath, newpath, df, genres, frac):
+    '''
+    Gets sample of images and sorts them with folders
+    labeled by genre
+    :param oldpath: path of original images classified by artist
+    :param newpath: new path for images classified by genre
+    :param df: dataframe used with filenames and filepaths
+    :param genres: art style or genre
+    :param frac: fraction of images to sample
+    :return: None
+    '''
+
     print('Clearing any previous samples...')
     if len(os.listdir(newpath)) > 1:
         clear_old_images(newpath)
