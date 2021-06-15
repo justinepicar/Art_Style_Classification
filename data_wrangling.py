@@ -1,7 +1,7 @@
 
 import os
 import shutil
-import numpy as np
+import pandas as pd
 
 def create_new_folder(path):
     '''
@@ -10,8 +10,6 @@ def create_new_folder(path):
     :return: None
     '''
 
-    print(f'Checking if {path} exists...')
-
     if not os.path.exists(path):
         os.makedirs(path)
         print(path + ' created')
@@ -19,12 +17,30 @@ def create_new_folder(path):
         print(path + ' path already exists')
 #    return None
 
+def delete_folder(folder_path):
+    '''
+    Deletes empty directory
+    :param path: directory passed to function
+    :return: None
+    '''
+    if os.path.exists(folder_path) and not os.path.isfile(folder_path):
+        # Checking if the directory is empty or not
+        if not os.listdir(folder_path):
+            print(f'Empty directory. Delete {folder_path}')
+            os.rmdir(folder_path)
+        else:
+            print(f' {folder_path} not empty directory')
+    else:
+        print("The path is either for a file or not valid")
+
 def clear_old_images(path):
     '''
     Clears sample of images from each class before resampling a new batch
     :param path: Gives path of folder that will be cleared of images
     :return: None
     '''
+    print('Clearing any previous samples...')
+
     num_skipped = 0
 
     for folder_name in os.listdir(path):
@@ -35,11 +51,12 @@ def clear_old_images(path):
                 num_skipped += 1
                 # Delete image
                 os.remove(fpath)
+        delete_folder(folder_path)
 
     print(f'Deleted {num_skipped} images')
 
 
-def get_sample(oldpath, newpath, df, genres, frac):
+def get_sample(newpath, df, genres, frac):
     '''
     Gets sample of images and sorts them with folders
     labeled by genre
@@ -51,8 +68,10 @@ def get_sample(oldpath, newpath, df, genres, frac):
     :return: None
     '''
 
-    print('Clearing any previous samples...')
-    if len(os.listdir(newpath)) > 1:
+    print(f'Checking if {newpath} exists...')
+    if not os.path.exists(newpath):
+        create_new_folder(newpath)
+    else:
         clear_old_images(newpath)
 
     copied = 0
@@ -71,7 +90,7 @@ def get_image_info(directory):
     ''' this function returns labels, filename, and
         the full filepath of each image
         param: directory
-        return: list of labels, filename, full_path'''
+        return: list of labels, filename, fullpath'''
 
     labels = []
     fullpath = []
@@ -85,5 +104,6 @@ def get_image_info(directory):
                 filename.append(fname)
                 fullpath.append(fpath)
                 labels.append(folder_name)
+    zipped = zip(['label', 'filename', 'filepath'], [labels, filename, fullpath])
 
-    return [labels, filename, fullpath]
+    return pd.DataFrame(dict(list(zipped)))
