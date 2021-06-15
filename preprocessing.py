@@ -1,7 +1,13 @@
 #filter any corrupt data
 from PIL import Image
+import os
 
 def delete_corrupt_image(image_path):
+    '''
+    Delete images corrupted in the directory
+    :param image_path: Directory
+    :return: None
+    '''
     num_skipped = 0
 
     for folder_name in os.listdir(image_path):
