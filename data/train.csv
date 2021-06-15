@@ -1,0 +1,1039 @@
+,label,filename,filepath
+0,Abstract Expressionism,Jackson_Pollock_1.jpg,../train_images\Abstract Expressionism\Jackson_Pollock_1.jpg
+1,Abstract Expressionism,Jackson_Pollock_11.jpg,../train_images\Abstract Expressionism\Jackson_Pollock_11.jpg
+2,Abstract Expressionism,Jackson_Pollock_13.jpg,../train_images\Abstract Expressionism\Jackson_Pollock_13.jpg
+3,Abstract Expressionism,Jackson_Pollock_15.jpg,../train_images\Abstract Expressionism\Jackson_Pollock_15.jpg
+4,Abstract Expressionism,Jackson_Pollock_16.jpg,../train_images\Abstract Expressionism\Jackson_Pollock_16.jpg
+5,Abstract Expressionism,Jackson_Pollock_17.jpg,../train_images\Abstract Expressionism\Jackson_Pollock_17.jpg
+6,Abstract Expressionism,Jackson_Pollock_19.jpg,../train_images\Abstract Expressionism\Jackson_Pollock_19.jpg
+7,Abstract Expressionism,Jackson_Pollock_20.jpg,../train_images\Abstract Expressionism\Jackson_Pollock_20.jpg
+8,Abstract Expressionism,Jackson_Pollock_3.jpg,../train_images\Abstract Expressionism\Jackson_Pollock_3.jpg
+9,Abstract Expressionism,Jackson_Pollock_6.jpg,../train_images\Abstract Expressionism\Jackson_Pollock_6.jpg
+10,Abstract Expressionism,Jackson_Pollock_9.jpg,../train_images\Abstract Expressionism\Jackson_Pollock_9.jpg
+11,Byzantine Art,Andrei_Rublev_11.jpg,../train_images\Byzantine Art\Andrei_Rublev_11.jpg
+12,Byzantine Art,Andrei_Rublev_14.jpg,../train_images\Byzantine Art\Andrei_Rublev_14.jpg
+13,Byzantine Art,Andrei_Rublev_15.jpg,../train_images\Byzantine Art\Andrei_Rublev_15.jpg
+14,Byzantine Art,Andrei_Rublev_19.jpg,../train_images\Byzantine Art\Andrei_Rublev_19.jpg
+15,Byzantine Art,Andrei_Rublev_23.jpg,../train_images\Byzantine Art\Andrei_Rublev_23.jpg
+16,Byzantine Art,Andrei_Rublev_28.jpg,../train_images\Byzantine Art\Andrei_Rublev_28.jpg
+17,Byzantine Art,Andrei_Rublev_29.jpg,../train_images\Byzantine Art\Andrei_Rublev_29.jpg
+18,Byzantine Art,Andrei_Rublev_32.jpg,../train_images\Byzantine Art\Andrei_Rublev_32.jpg
+19,Byzantine Art,Andrei_Rublev_39.jpg,../train_images\Byzantine Art\Andrei_Rublev_39.jpg
+20,Byzantine Art,Andrei_Rublev_40.jpg,../train_images\Byzantine Art\Andrei_Rublev_40.jpg
+21,Byzantine Art,Andrei_Rublev_44.jpg,../train_images\Byzantine Art\Andrei_Rublev_44.jpg
+22,Byzantine Art,Andrei_Rublev_45.jpg,../train_images\Byzantine Art\Andrei_Rublev_45.jpg
+23,Byzantine Art,Andrei_Rublev_47.jpg,../train_images\Byzantine Art\Andrei_Rublev_47.jpg
+24,Byzantine Art,Andrei_Rublev_51.jpg,../train_images\Byzantine Art\Andrei_Rublev_51.jpg
+25,Byzantine Art,Andrei_Rublev_53.jpg,../train_images\Byzantine Art\Andrei_Rublev_53.jpg
+26,Byzantine Art,Andrei_Rublev_55.jpg,../train_images\Byzantine Art\Andrei_Rublev_55.jpg
+27,Byzantine Art,Andrei_Rublev_56.jpg,../train_images\Byzantine Art\Andrei_Rublev_56.jpg
+28,Byzantine Art,Andrei_Rublev_6.jpg,../train_images\Byzantine Art\Andrei_Rublev_6.jpg
+29,Byzantine Art,Andrei_Rublev_61.jpg,../train_images\Byzantine Art\Andrei_Rublev_61.jpg
+30,Byzantine Art,Andrei_Rublev_62.jpg,../train_images\Byzantine Art\Andrei_Rublev_62.jpg
+31,Byzantine Art,Andrei_Rublev_63.jpg,../train_images\Byzantine Art\Andrei_Rublev_63.jpg
+32,Byzantine Art,Andrei_Rublev_65.jpg,../train_images\Byzantine Art\Andrei_Rublev_65.jpg
+33,Byzantine Art,Andrei_Rublev_70.jpg,../train_images\Byzantine Art\Andrei_Rublev_70.jpg
+34,Byzantine Art,Andrei_Rublev_71.jpg,../train_images\Byzantine Art\Andrei_Rublev_71.jpg
+35,Byzantine Art,Andrei_Rublev_74.jpg,../train_images\Byzantine Art\Andrei_Rublev_74.jpg
+36,Byzantine Art,Andrei_Rublev_75.jpg,../train_images\Byzantine Art\Andrei_Rublev_75.jpg
+37,Byzantine Art,Andrei_Rublev_76.jpg,../train_images\Byzantine Art\Andrei_Rublev_76.jpg
+38,Byzantine Art,Andrei_Rublev_77.jpg,../train_images\Byzantine Art\Andrei_Rublev_77.jpg
+39,Byzantine Art,Andrei_Rublev_79.jpg,../train_images\Byzantine Art\Andrei_Rublev_79.jpg
+40,Byzantine Art,Andrei_Rublev_80.jpg,../train_images\Byzantine Art\Andrei_Rublev_80.jpg
+41,Byzantine Art,Andrei_Rublev_82.jpg,../train_images\Byzantine Art\Andrei_Rublev_82.jpg
+42,Byzantine Art,Andrei_Rublev_83.jpg,../train_images\Byzantine Art\Andrei_Rublev_83.jpg
+43,Byzantine Art,Andrei_Rublev_84.jpg,../train_images\Byzantine Art\Andrei_Rublev_84.jpg
+44,Byzantine Art,Andrei_Rublev_85.jpg,../train_images\Byzantine Art\Andrei_Rublev_85.jpg
+45,Byzantine Art,Andrei_Rublev_86.jpg,../train_images\Byzantine Art\Andrei_Rublev_86.jpg
+46,Byzantine Art,Andrei_Rublev_87.jpg,../train_images\Byzantine Art\Andrei_Rublev_87.jpg
+47,Byzantine Art,Andrei_Rublev_88.jpg,../train_images\Byzantine Art\Andrei_Rublev_88.jpg
+48,Byzantine Art,Andrei_Rublev_9.jpg,../train_images\Byzantine Art\Andrei_Rublev_9.jpg
+49,Byzantine Art,Andrei_Rublev_91.jpg,../train_images\Byzantine Art\Andrei_Rublev_91.jpg
+50,Byzantine Art,Andrei_Rublev_92.jpg,../train_images\Byzantine Art\Andrei_Rublev_92.jpg
+51,Byzantine Art,Andrei_Rublev_93.jpg,../train_images\Byzantine Art\Andrei_Rublev_93.jpg
+52,Byzantine Art,Andrei_Rublev_94.jpg,../train_images\Byzantine Art\Andrei_Rublev_94.jpg
+53,Byzantine Art,Andrei_Rublev_96.jpg,../train_images\Byzantine Art\Andrei_Rublev_96.jpg
+54,Byzantine Art,Andrei_Rublev_99.jpg,../train_images\Byzantine Art\Andrei_Rublev_99.jpg
+55,Cubism,Pablo_Picasso_1.jpg,../train_images\Cubism\Pablo_Picasso_1.jpg
+56,Cubism,Pablo_Picasso_101.jpg,../train_images\Cubism\Pablo_Picasso_101.jpg
+57,Cubism,Pablo_Picasso_104.jpg,../train_images\Cubism\Pablo_Picasso_104.jpg
+58,Cubism,Pablo_Picasso_105.jpg,../train_images\Cubism\Pablo_Picasso_105.jpg
+59,Cubism,Pablo_Picasso_106.jpg,../train_images\Cubism\Pablo_Picasso_106.jpg
+60,Cubism,Pablo_Picasso_107.jpg,../train_images\Cubism\Pablo_Picasso_107.jpg
+61,Cubism,Pablo_Picasso_108.jpg,../train_images\Cubism\Pablo_Picasso_108.jpg
+62,Cubism,Pablo_Picasso_109.jpg,../train_images\Cubism\Pablo_Picasso_109.jpg
+63,Cubism,Pablo_Picasso_118.jpg,../train_images\Cubism\Pablo_Picasso_118.jpg
+64,Cubism,Pablo_Picasso_122.jpg,../train_images\Cubism\Pablo_Picasso_122.jpg
+65,Cubism,Pablo_Picasso_123.jpg,../train_images\Cubism\Pablo_Picasso_123.jpg
+66,Cubism,Pablo_Picasso_127.jpg,../train_images\Cubism\Pablo_Picasso_127.jpg
+67,Cubism,Pablo_Picasso_128.jpg,../train_images\Cubism\Pablo_Picasso_128.jpg
+68,Cubism,Pablo_Picasso_129.jpg,../train_images\Cubism\Pablo_Picasso_129.jpg
+69,Cubism,Pablo_Picasso_130.jpg,../train_images\Cubism\Pablo_Picasso_130.jpg
+70,Cubism,Pablo_Picasso_134.jpg,../train_images\Cubism\Pablo_Picasso_134.jpg
+71,Cubism,Pablo_Picasso_142.jpg,../train_images\Cubism\Pablo_Picasso_142.jpg
+72,Cubism,Pablo_Picasso_143.jpg,../train_images\Cubism\Pablo_Picasso_143.jpg
+73,Cubism,Pablo_Picasso_145.jpg,../train_images\Cubism\Pablo_Picasso_145.jpg
+74,Cubism,Pablo_Picasso_147.jpg,../train_images\Cubism\Pablo_Picasso_147.jpg
+75,Cubism,Pablo_Picasso_15.jpg,../train_images\Cubism\Pablo_Picasso_15.jpg
+76,Cubism,Pablo_Picasso_150.jpg,../train_images\Cubism\Pablo_Picasso_150.jpg
+77,Cubism,Pablo_Picasso_151.jpg,../train_images\Cubism\Pablo_Picasso_151.jpg
+78,Cubism,Pablo_Picasso_152.jpg,../train_images\Cubism\Pablo_Picasso_152.jpg
+79,Cubism,Pablo_Picasso_154.jpg,../train_images\Cubism\Pablo_Picasso_154.jpg
+80,Cubism,Pablo_Picasso_156.jpg,../train_images\Cubism\Pablo_Picasso_156.jpg
+81,Cubism,Pablo_Picasso_158.jpg,../train_images\Cubism\Pablo_Picasso_158.jpg
+82,Cubism,Pablo_Picasso_159.jpg,../train_images\Cubism\Pablo_Picasso_159.jpg
+83,Cubism,Pablo_Picasso_160.jpg,../train_images\Cubism\Pablo_Picasso_160.jpg
+84,Cubism,Pablo_Picasso_161.jpg,../train_images\Cubism\Pablo_Picasso_161.jpg
+85,Cubism,Pablo_Picasso_162.jpg,../train_images\Cubism\Pablo_Picasso_162.jpg
+86,Cubism,Pablo_Picasso_163.jpg,../train_images\Cubism\Pablo_Picasso_163.jpg
+87,Cubism,Pablo_Picasso_164.jpg,../train_images\Cubism\Pablo_Picasso_164.jpg
+88,Cubism,Pablo_Picasso_165.jpg,../train_images\Cubism\Pablo_Picasso_165.jpg
+89,Cubism,Pablo_Picasso_168.jpg,../train_images\Cubism\Pablo_Picasso_168.jpg
+90,Cubism,Pablo_Picasso_17.jpg,../train_images\Cubism\Pablo_Picasso_17.jpg
+91,Cubism,Pablo_Picasso_170.jpg,../train_images\Cubism\Pablo_Picasso_170.jpg
+92,Cubism,Pablo_Picasso_172.jpg,../train_images\Cubism\Pablo_Picasso_172.jpg
+93,Cubism,Pablo_Picasso_174.jpg,../train_images\Cubism\Pablo_Picasso_174.jpg
+94,Cubism,Pablo_Picasso_175.jpg,../train_images\Cubism\Pablo_Picasso_175.jpg
+95,Cubism,Pablo_Picasso_176.jpg,../train_images\Cubism\Pablo_Picasso_176.jpg
+96,Cubism,Pablo_Picasso_177.jpg,../train_images\Cubism\Pablo_Picasso_177.jpg
+97,Cubism,Pablo_Picasso_182.jpg,../train_images\Cubism\Pablo_Picasso_182.jpg
+98,Cubism,Pablo_Picasso_183.jpg,../train_images\Cubism\Pablo_Picasso_183.jpg
+99,Cubism,Pablo_Picasso_185.jpg,../train_images\Cubism\Pablo_Picasso_185.jpg
+100,Cubism,Pablo_Picasso_186.jpg,../train_images\Cubism\Pablo_Picasso_186.jpg
+101,Cubism,Pablo_Picasso_187.jpg,../train_images\Cubism\Pablo_Picasso_187.jpg
+102,Cubism,Pablo_Picasso_189.jpg,../train_images\Cubism\Pablo_Picasso_189.jpg
+103,Cubism,Pablo_Picasso_190.jpg,../train_images\Cubism\Pablo_Picasso_190.jpg
+104,Cubism,Pablo_Picasso_192.jpg,../train_images\Cubism\Pablo_Picasso_192.jpg
+105,Cubism,Pablo_Picasso_194.jpg,../train_images\Cubism\Pablo_Picasso_194.jpg
+106,Cubism,Pablo_Picasso_198.jpg,../train_images\Cubism\Pablo_Picasso_198.jpg
+107,Cubism,Pablo_Picasso_2.jpg,../train_images\Cubism\Pablo_Picasso_2.jpg
+108,Cubism,Pablo_Picasso_20.jpg,../train_images\Cubism\Pablo_Picasso_20.jpg
+109,Cubism,Pablo_Picasso_200.jpg,../train_images\Cubism\Pablo_Picasso_200.jpg
+110,Cubism,Pablo_Picasso_208.jpg,../train_images\Cubism\Pablo_Picasso_208.jpg
+111,Cubism,Pablo_Picasso_21.jpg,../train_images\Cubism\Pablo_Picasso_21.jpg
+112,Cubism,Pablo_Picasso_210.jpg,../train_images\Cubism\Pablo_Picasso_210.jpg
+113,Cubism,Pablo_Picasso_212.jpg,../train_images\Cubism\Pablo_Picasso_212.jpg
+114,Cubism,Pablo_Picasso_217.jpg,../train_images\Cubism\Pablo_Picasso_217.jpg
+115,Cubism,Pablo_Picasso_219.jpg,../train_images\Cubism\Pablo_Picasso_219.jpg
+116,Cubism,Pablo_Picasso_22.jpg,../train_images\Cubism\Pablo_Picasso_22.jpg
+117,Cubism,Pablo_Picasso_220.jpg,../train_images\Cubism\Pablo_Picasso_220.jpg
+118,Cubism,Pablo_Picasso_223.jpg,../train_images\Cubism\Pablo_Picasso_223.jpg
+119,Cubism,Pablo_Picasso_228.jpg,../train_images\Cubism\Pablo_Picasso_228.jpg
+120,Cubism,Pablo_Picasso_230.jpg,../train_images\Cubism\Pablo_Picasso_230.jpg
+121,Cubism,Pablo_Picasso_234.jpg,../train_images\Cubism\Pablo_Picasso_234.jpg
+122,Cubism,Pablo_Picasso_235.jpg,../train_images\Cubism\Pablo_Picasso_235.jpg
+123,Cubism,Pablo_Picasso_236.jpg,../train_images\Cubism\Pablo_Picasso_236.jpg
+124,Cubism,Pablo_Picasso_239.jpg,../train_images\Cubism\Pablo_Picasso_239.jpg
+125,Cubism,Pablo_Picasso_24.jpg,../train_images\Cubism\Pablo_Picasso_24.jpg
+126,Cubism,Pablo_Picasso_242.jpg,../train_images\Cubism\Pablo_Picasso_242.jpg
+127,Cubism,Pablo_Picasso_243.jpg,../train_images\Cubism\Pablo_Picasso_243.jpg
+128,Cubism,Pablo_Picasso_247.jpg,../train_images\Cubism\Pablo_Picasso_247.jpg
+129,Cubism,Pablo_Picasso_248.jpg,../train_images\Cubism\Pablo_Picasso_248.jpg
+130,Cubism,Pablo_Picasso_249.jpg,../train_images\Cubism\Pablo_Picasso_249.jpg
+131,Cubism,Pablo_Picasso_25.jpg,../train_images\Cubism\Pablo_Picasso_25.jpg
+132,Cubism,Pablo_Picasso_251.jpg,../train_images\Cubism\Pablo_Picasso_251.jpg
+133,Cubism,Pablo_Picasso_253.jpg,../train_images\Cubism\Pablo_Picasso_253.jpg
+134,Cubism,Pablo_Picasso_257.jpg,../train_images\Cubism\Pablo_Picasso_257.jpg
+135,Cubism,Pablo_Picasso_258.jpg,../train_images\Cubism\Pablo_Picasso_258.jpg
+136,Cubism,Pablo_Picasso_26.jpg,../train_images\Cubism\Pablo_Picasso_26.jpg
+137,Cubism,Pablo_Picasso_260.jpg,../train_images\Cubism\Pablo_Picasso_260.jpg
+138,Cubism,Pablo_Picasso_262.jpg,../train_images\Cubism\Pablo_Picasso_262.jpg
+139,Cubism,Pablo_Picasso_265.jpg,../train_images\Cubism\Pablo_Picasso_265.jpg
+140,Cubism,Pablo_Picasso_269.jpg,../train_images\Cubism\Pablo_Picasso_269.jpg
+141,Cubism,Pablo_Picasso_272.jpg,../train_images\Cubism\Pablo_Picasso_272.jpg
+142,Cubism,Pablo_Picasso_277.jpg,../train_images\Cubism\Pablo_Picasso_277.jpg
+143,Cubism,Pablo_Picasso_278.jpg,../train_images\Cubism\Pablo_Picasso_278.jpg
+144,Cubism,Pablo_Picasso_279.jpg,../train_images\Cubism\Pablo_Picasso_279.jpg
+145,Cubism,Pablo_Picasso_281.jpg,../train_images\Cubism\Pablo_Picasso_281.jpg
+146,Cubism,Pablo_Picasso_282.jpg,../train_images\Cubism\Pablo_Picasso_282.jpg
+147,Cubism,Pablo_Picasso_287.jpg,../train_images\Cubism\Pablo_Picasso_287.jpg
+148,Cubism,Pablo_Picasso_288.jpg,../train_images\Cubism\Pablo_Picasso_288.jpg
+149,Cubism,Pablo_Picasso_289.jpg,../train_images\Cubism\Pablo_Picasso_289.jpg
+150,Cubism,Pablo_Picasso_29.jpg,../train_images\Cubism\Pablo_Picasso_29.jpg
+151,Cubism,Pablo_Picasso_291.jpg,../train_images\Cubism\Pablo_Picasso_291.jpg
+152,Cubism,Pablo_Picasso_293.jpg,../train_images\Cubism\Pablo_Picasso_293.jpg
+153,Cubism,Pablo_Picasso_296.jpg,../train_images\Cubism\Pablo_Picasso_296.jpg
+154,Cubism,Pablo_Picasso_302.jpg,../train_images\Cubism\Pablo_Picasso_302.jpg
+155,Cubism,Pablo_Picasso_305.jpg,../train_images\Cubism\Pablo_Picasso_305.jpg
+156,Cubism,Pablo_Picasso_307.jpg,../train_images\Cubism\Pablo_Picasso_307.jpg
+157,Cubism,Pablo_Picasso_308.jpg,../train_images\Cubism\Pablo_Picasso_308.jpg
+158,Cubism,Pablo_Picasso_309.jpg,../train_images\Cubism\Pablo_Picasso_309.jpg
+159,Cubism,Pablo_Picasso_311.jpg,../train_images\Cubism\Pablo_Picasso_311.jpg
+160,Cubism,Pablo_Picasso_312.jpg,../train_images\Cubism\Pablo_Picasso_312.jpg
+161,Cubism,Pablo_Picasso_320.jpg,../train_images\Cubism\Pablo_Picasso_320.jpg
+162,Cubism,Pablo_Picasso_322.jpg,../train_images\Cubism\Pablo_Picasso_322.jpg
+163,Cubism,Pablo_Picasso_323.jpg,../train_images\Cubism\Pablo_Picasso_323.jpg
+164,Cubism,Pablo_Picasso_326.jpg,../train_images\Cubism\Pablo_Picasso_326.jpg
+165,Cubism,Pablo_Picasso_327.jpg,../train_images\Cubism\Pablo_Picasso_327.jpg
+166,Cubism,Pablo_Picasso_328.jpg,../train_images\Cubism\Pablo_Picasso_328.jpg
+167,Cubism,Pablo_Picasso_33.jpg,../train_images\Cubism\Pablo_Picasso_33.jpg
+168,Cubism,Pablo_Picasso_330.jpg,../train_images\Cubism\Pablo_Picasso_330.jpg
+169,Cubism,Pablo_Picasso_331.jpg,../train_images\Cubism\Pablo_Picasso_331.jpg
+170,Cubism,Pablo_Picasso_332.jpg,../train_images\Cubism\Pablo_Picasso_332.jpg
+171,Cubism,Pablo_Picasso_335.jpg,../train_images\Cubism\Pablo_Picasso_335.jpg
+172,Cubism,Pablo_Picasso_338.jpg,../train_images\Cubism\Pablo_Picasso_338.jpg
+173,Cubism,Pablo_Picasso_339.jpg,../train_images\Cubism\Pablo_Picasso_339.jpg
+174,Cubism,Pablo_Picasso_341.jpg,../train_images\Cubism\Pablo_Picasso_341.jpg
+175,Cubism,Pablo_Picasso_345.jpg,../train_images\Cubism\Pablo_Picasso_345.jpg
+176,Cubism,Pablo_Picasso_347.jpg,../train_images\Cubism\Pablo_Picasso_347.jpg
+177,Cubism,Pablo_Picasso_348.jpg,../train_images\Cubism\Pablo_Picasso_348.jpg
+178,Cubism,Pablo_Picasso_350.jpg,../train_images\Cubism\Pablo_Picasso_350.jpg
+179,Cubism,Pablo_Picasso_351.jpg,../train_images\Cubism\Pablo_Picasso_351.jpg
+180,Cubism,Pablo_Picasso_355.jpg,../train_images\Cubism\Pablo_Picasso_355.jpg
+181,Cubism,Pablo_Picasso_357.jpg,../train_images\Cubism\Pablo_Picasso_357.jpg
+182,Cubism,Pablo_Picasso_358.jpg,../train_images\Cubism\Pablo_Picasso_358.jpg
+183,Cubism,Pablo_Picasso_36.jpg,../train_images\Cubism\Pablo_Picasso_36.jpg
+184,Cubism,Pablo_Picasso_361.jpg,../train_images\Cubism\Pablo_Picasso_361.jpg
+185,Cubism,Pablo_Picasso_362.jpg,../train_images\Cubism\Pablo_Picasso_362.jpg
+186,Cubism,Pablo_Picasso_364.jpg,../train_images\Cubism\Pablo_Picasso_364.jpg
+187,Cubism,Pablo_Picasso_365.jpg,../train_images\Cubism\Pablo_Picasso_365.jpg
+188,Cubism,Pablo_Picasso_366.jpg,../train_images\Cubism\Pablo_Picasso_366.jpg
+189,Cubism,Pablo_Picasso_367.jpg,../train_images\Cubism\Pablo_Picasso_367.jpg
+190,Cubism,Pablo_Picasso_37.jpg,../train_images\Cubism\Pablo_Picasso_37.jpg
+191,Cubism,Pablo_Picasso_378.jpg,../train_images\Cubism\Pablo_Picasso_378.jpg
+192,Cubism,Pablo_Picasso_379.jpg,../train_images\Cubism\Pablo_Picasso_379.jpg
+193,Cubism,Pablo_Picasso_387.jpg,../train_images\Cubism\Pablo_Picasso_387.jpg
+194,Cubism,Pablo_Picasso_391.jpg,../train_images\Cubism\Pablo_Picasso_391.jpg
+195,Cubism,Pablo_Picasso_392.jpg,../train_images\Cubism\Pablo_Picasso_392.jpg
+196,Cubism,Pablo_Picasso_393.jpg,../train_images\Cubism\Pablo_Picasso_393.jpg
+197,Cubism,Pablo_Picasso_398.jpg,../train_images\Cubism\Pablo_Picasso_398.jpg
+198,Cubism,Pablo_Picasso_399.jpg,../train_images\Cubism\Pablo_Picasso_399.jpg
+199,Cubism,Pablo_Picasso_40.jpg,../train_images\Cubism\Pablo_Picasso_40.jpg
+200,Cubism,Pablo_Picasso_400.jpg,../train_images\Cubism\Pablo_Picasso_400.jpg
+201,Cubism,Pablo_Picasso_401.jpg,../train_images\Cubism\Pablo_Picasso_401.jpg
+202,Cubism,Pablo_Picasso_403.jpg,../train_images\Cubism\Pablo_Picasso_403.jpg
+203,Cubism,Pablo_Picasso_410.jpg,../train_images\Cubism\Pablo_Picasso_410.jpg
+204,Cubism,Pablo_Picasso_415.jpg,../train_images\Cubism\Pablo_Picasso_415.jpg
+205,Cubism,Pablo_Picasso_417.jpg,../train_images\Cubism\Pablo_Picasso_417.jpg
+206,Cubism,Pablo_Picasso_418.jpg,../train_images\Cubism\Pablo_Picasso_418.jpg
+207,Cubism,Pablo_Picasso_419.jpg,../train_images\Cubism\Pablo_Picasso_419.jpg
+208,Cubism,Pablo_Picasso_422.jpg,../train_images\Cubism\Pablo_Picasso_422.jpg
+209,Cubism,Pablo_Picasso_423.jpg,../train_images\Cubism\Pablo_Picasso_423.jpg
+210,Cubism,Pablo_Picasso_424.jpg,../train_images\Cubism\Pablo_Picasso_424.jpg
+211,Cubism,Pablo_Picasso_426.jpg,../train_images\Cubism\Pablo_Picasso_426.jpg
+212,Cubism,Pablo_Picasso_428.jpg,../train_images\Cubism\Pablo_Picasso_428.jpg
+213,Cubism,Pablo_Picasso_429.jpg,../train_images\Cubism\Pablo_Picasso_429.jpg
+214,Cubism,Pablo_Picasso_43.jpg,../train_images\Cubism\Pablo_Picasso_43.jpg
+215,Cubism,Pablo_Picasso_431.jpg,../train_images\Cubism\Pablo_Picasso_431.jpg
+216,Cubism,Pablo_Picasso_433.jpg,../train_images\Cubism\Pablo_Picasso_433.jpg
+217,Cubism,Pablo_Picasso_434.jpg,../train_images\Cubism\Pablo_Picasso_434.jpg
+218,Cubism,Pablo_Picasso_436.jpg,../train_images\Cubism\Pablo_Picasso_436.jpg
+219,Cubism,Pablo_Picasso_437.jpg,../train_images\Cubism\Pablo_Picasso_437.jpg
+220,Cubism,Pablo_Picasso_45.jpg,../train_images\Cubism\Pablo_Picasso_45.jpg
+221,Cubism,Pablo_Picasso_47.jpg,../train_images\Cubism\Pablo_Picasso_47.jpg
+222,Cubism,Pablo_Picasso_48.jpg,../train_images\Cubism\Pablo_Picasso_48.jpg
+223,Cubism,Pablo_Picasso_49.jpg,../train_images\Cubism\Pablo_Picasso_49.jpg
+224,Cubism,Pablo_Picasso_5.jpg,../train_images\Cubism\Pablo_Picasso_5.jpg
+225,Cubism,Pablo_Picasso_50.jpg,../train_images\Cubism\Pablo_Picasso_50.jpg
+226,Cubism,Pablo_Picasso_51.jpg,../train_images\Cubism\Pablo_Picasso_51.jpg
+227,Cubism,Pablo_Picasso_53.jpg,../train_images\Cubism\Pablo_Picasso_53.jpg
+228,Cubism,Pablo_Picasso_56.jpg,../train_images\Cubism\Pablo_Picasso_56.jpg
+229,Cubism,Pablo_Picasso_57.jpg,../train_images\Cubism\Pablo_Picasso_57.jpg
+230,Cubism,Pablo_Picasso_58.jpg,../train_images\Cubism\Pablo_Picasso_58.jpg
+231,Cubism,Pablo_Picasso_59.jpg,../train_images\Cubism\Pablo_Picasso_59.jpg
+232,Cubism,Pablo_Picasso_6.jpg,../train_images\Cubism\Pablo_Picasso_6.jpg
+233,Cubism,Pablo_Picasso_63.jpg,../train_images\Cubism\Pablo_Picasso_63.jpg
+234,Cubism,Pablo_Picasso_64.jpg,../train_images\Cubism\Pablo_Picasso_64.jpg
+235,Cubism,Pablo_Picasso_65.jpg,../train_images\Cubism\Pablo_Picasso_65.jpg
+236,Cubism,Pablo_Picasso_66.jpg,../train_images\Cubism\Pablo_Picasso_66.jpg
+237,Cubism,Pablo_Picasso_7.jpg,../train_images\Cubism\Pablo_Picasso_7.jpg
+238,Cubism,Pablo_Picasso_70.jpg,../train_images\Cubism\Pablo_Picasso_70.jpg
+239,Cubism,Pablo_Picasso_72.jpg,../train_images\Cubism\Pablo_Picasso_72.jpg
+240,Cubism,Pablo_Picasso_75.jpg,../train_images\Cubism\Pablo_Picasso_75.jpg
+241,Cubism,Pablo_Picasso_76.jpg,../train_images\Cubism\Pablo_Picasso_76.jpg
+242,Cubism,Pablo_Picasso_78.jpg,../train_images\Cubism\Pablo_Picasso_78.jpg
+243,Cubism,Pablo_Picasso_81.jpg,../train_images\Cubism\Pablo_Picasso_81.jpg
+244,Cubism,Pablo_Picasso_85.jpg,../train_images\Cubism\Pablo_Picasso_85.jpg
+245,Cubism,Pablo_Picasso_86.jpg,../train_images\Cubism\Pablo_Picasso_86.jpg
+246,Cubism,Pablo_Picasso_88.jpg,../train_images\Cubism\Pablo_Picasso_88.jpg
+247,Cubism,Pablo_Picasso_89.jpg,../train_images\Cubism\Pablo_Picasso_89.jpg
+248,Cubism,Pablo_Picasso_9.jpg,../train_images\Cubism\Pablo_Picasso_9.jpg
+249,Cubism,Pablo_Picasso_90.jpg,../train_images\Cubism\Pablo_Picasso_90.jpg
+250,Cubism,Pablo_Picasso_91.jpg,../train_images\Cubism\Pablo_Picasso_91.jpg
+251,Cubism,Pablo_Picasso_92.jpg,../train_images\Cubism\Pablo_Picasso_92.jpg
+252,Cubism,Pablo_Picasso_93.jpg,../train_images\Cubism\Pablo_Picasso_93.jpg
+253,Expressionism,Amedeo_Modigliani_1.jpg,../train_images\Expressionism\Amedeo_Modigliani_1.jpg
+254,Expressionism,Amedeo_Modigliani_10.jpg,../train_images\Expressionism\Amedeo_Modigliani_10.jpg
+255,Expressionism,Amedeo_Modigliani_100.jpg,../train_images\Expressionism\Amedeo_Modigliani_100.jpg
+256,Expressionism,Amedeo_Modigliani_101.jpg,../train_images\Expressionism\Amedeo_Modigliani_101.jpg
+257,Expressionism,Amedeo_Modigliani_103.jpg,../train_images\Expressionism\Amedeo_Modigliani_103.jpg
+258,Expressionism,Amedeo_Modigliani_105.jpg,../train_images\Expressionism\Amedeo_Modigliani_105.jpg
+259,Expressionism,Amedeo_Modigliani_107.jpg,../train_images\Expressionism\Amedeo_Modigliani_107.jpg
+260,Expressionism,Amedeo_Modigliani_110.jpg,../train_images\Expressionism\Amedeo_Modigliani_110.jpg
+261,Expressionism,Amedeo_Modigliani_111.jpg,../train_images\Expressionism\Amedeo_Modigliani_111.jpg
+262,Expressionism,Amedeo_Modigliani_113.jpg,../train_images\Expressionism\Amedeo_Modigliani_113.jpg
+263,Expressionism,Amedeo_Modigliani_115.jpg,../train_images\Expressionism\Amedeo_Modigliani_115.jpg
+264,Expressionism,Amedeo_Modigliani_118.jpg,../train_images\Expressionism\Amedeo_Modigliani_118.jpg
+265,Expressionism,Amedeo_Modigliani_12.jpg,../train_images\Expressionism\Amedeo_Modigliani_12.jpg
+266,Expressionism,Amedeo_Modigliani_120.jpg,../train_images\Expressionism\Amedeo_Modigliani_120.jpg
+267,Expressionism,Amedeo_Modigliani_122.jpg,../train_images\Expressionism\Amedeo_Modigliani_122.jpg
+268,Expressionism,Amedeo_Modigliani_123.jpg,../train_images\Expressionism\Amedeo_Modigliani_123.jpg
+269,Expressionism,Amedeo_Modigliani_125.jpg,../train_images\Expressionism\Amedeo_Modigliani_125.jpg
+270,Expressionism,Amedeo_Modigliani_126.jpg,../train_images\Expressionism\Amedeo_Modigliani_126.jpg
+271,Expressionism,Amedeo_Modigliani_131.jpg,../train_images\Expressionism\Amedeo_Modigliani_131.jpg
+272,Expressionism,Amedeo_Modigliani_133.jpg,../train_images\Expressionism\Amedeo_Modigliani_133.jpg
+273,Expressionism,Amedeo_Modigliani_134.jpg,../train_images\Expressionism\Amedeo_Modigliani_134.jpg
+274,Expressionism,Amedeo_Modigliani_136.jpg,../train_images\Expressionism\Amedeo_Modigliani_136.jpg
+275,Expressionism,Amedeo_Modigliani_138.jpg,../train_images\Expressionism\Amedeo_Modigliani_138.jpg
+276,Expressionism,Amedeo_Modigliani_140.jpg,../train_images\Expressionism\Amedeo_Modigliani_140.jpg
+277,Expressionism,Amedeo_Modigliani_147.jpg,../train_images\Expressionism\Amedeo_Modigliani_147.jpg
+278,Expressionism,Amedeo_Modigliani_15.jpg,../train_images\Expressionism\Amedeo_Modigliani_15.jpg
+279,Expressionism,Amedeo_Modigliani_151.jpg,../train_images\Expressionism\Amedeo_Modigliani_151.jpg
+280,Expressionism,Amedeo_Modigliani_155.jpg,../train_images\Expressionism\Amedeo_Modigliani_155.jpg
+281,Expressionism,Amedeo_Modigliani_158.jpg,../train_images\Expressionism\Amedeo_Modigliani_158.jpg
+282,Expressionism,Amedeo_Modigliani_161.jpg,../train_images\Expressionism\Amedeo_Modigliani_161.jpg
+283,Expressionism,Amedeo_Modigliani_162.jpg,../train_images\Expressionism\Amedeo_Modigliani_162.jpg
+284,Expressionism,Amedeo_Modigliani_165.jpg,../train_images\Expressionism\Amedeo_Modigliani_165.jpg
+285,Expressionism,Amedeo_Modigliani_167.jpg,../train_images\Expressionism\Amedeo_Modigliani_167.jpg
+286,Expressionism,Amedeo_Modigliani_169.jpg,../train_images\Expressionism\Amedeo_Modigliani_169.jpg
+287,Expressionism,Amedeo_Modigliani_17.jpg,../train_images\Expressionism\Amedeo_Modigliani_17.jpg
+288,Expressionism,Amedeo_Modigliani_170.jpg,../train_images\Expressionism\Amedeo_Modigliani_170.jpg
+289,Expressionism,Amedeo_Modigliani_171.jpg,../train_images\Expressionism\Amedeo_Modigliani_171.jpg
+290,Expressionism,Amedeo_Modigliani_173.jpg,../train_images\Expressionism\Amedeo_Modigliani_173.jpg
+291,Expressionism,Amedeo_Modigliani_176.jpg,../train_images\Expressionism\Amedeo_Modigliani_176.jpg
+292,Expressionism,Amedeo_Modigliani_178.jpg,../train_images\Expressionism\Amedeo_Modigliani_178.jpg
+293,Expressionism,Amedeo_Modigliani_179.jpg,../train_images\Expressionism\Amedeo_Modigliani_179.jpg
+294,Expressionism,Amedeo_Modigliani_182.jpg,../train_images\Expressionism\Amedeo_Modigliani_182.jpg
+295,Expressionism,Amedeo_Modigliani_183.jpg,../train_images\Expressionism\Amedeo_Modigliani_183.jpg
+296,Expressionism,Amedeo_Modigliani_187.jpg,../train_images\Expressionism\Amedeo_Modigliani_187.jpg
+297,Expressionism,Amedeo_Modigliani_190.jpg,../train_images\Expressionism\Amedeo_Modigliani_190.jpg
+298,Expressionism,Amedeo_Modigliani_191.jpg,../train_images\Expressionism\Amedeo_Modigliani_191.jpg
+299,Expressionism,Amedeo_Modigliani_193.jpg,../train_images\Expressionism\Amedeo_Modigliani_193.jpg
+300,Expressionism,Amedeo_Modigliani_23.jpg,../train_images\Expressionism\Amedeo_Modigliani_23.jpg
+301,Expressionism,Amedeo_Modigliani_28.jpg,../train_images\Expressionism\Amedeo_Modigliani_28.jpg
+302,Expressionism,Amedeo_Modigliani_3.jpg,../train_images\Expressionism\Amedeo_Modigliani_3.jpg
+303,Expressionism,Amedeo_Modigliani_30.jpg,../train_images\Expressionism\Amedeo_Modigliani_30.jpg
+304,Expressionism,Amedeo_Modigliani_31.jpg,../train_images\Expressionism\Amedeo_Modigliani_31.jpg
+305,Expressionism,Amedeo_Modigliani_33.jpg,../train_images\Expressionism\Amedeo_Modigliani_33.jpg
+306,Expressionism,Amedeo_Modigliani_36.jpg,../train_images\Expressionism\Amedeo_Modigliani_36.jpg
+307,Expressionism,Amedeo_Modigliani_37.jpg,../train_images\Expressionism\Amedeo_Modigliani_37.jpg
+308,Expressionism,Amedeo_Modigliani_39.jpg,../train_images\Expressionism\Amedeo_Modigliani_39.jpg
+309,Expressionism,Amedeo_Modigliani_41.jpg,../train_images\Expressionism\Amedeo_Modigliani_41.jpg
+310,Expressionism,Amedeo_Modigliani_43.jpg,../train_images\Expressionism\Amedeo_Modigliani_43.jpg
+311,Expressionism,Amedeo_Modigliani_44.jpg,../train_images\Expressionism\Amedeo_Modigliani_44.jpg
+312,Expressionism,Amedeo_Modigliani_45.jpg,../train_images\Expressionism\Amedeo_Modigliani_45.jpg
+313,Expressionism,Amedeo_Modigliani_48.jpg,../train_images\Expressionism\Amedeo_Modigliani_48.jpg
+314,Expressionism,Amedeo_Modigliani_49.jpg,../train_images\Expressionism\Amedeo_Modigliani_49.jpg
+315,Expressionism,Amedeo_Modigliani_50.jpg,../train_images\Expressionism\Amedeo_Modigliani_50.jpg
+316,Expressionism,Amedeo_Modigliani_54.jpg,../train_images\Expressionism\Amedeo_Modigliani_54.jpg
+317,Expressionism,Amedeo_Modigliani_59.jpg,../train_images\Expressionism\Amedeo_Modigliani_59.jpg
+318,Expressionism,Amedeo_Modigliani_6.jpg,../train_images\Expressionism\Amedeo_Modigliani_6.jpg
+319,Expressionism,Amedeo_Modigliani_60.jpg,../train_images\Expressionism\Amedeo_Modigliani_60.jpg
+320,Expressionism,Amedeo_Modigliani_61.jpg,../train_images\Expressionism\Amedeo_Modigliani_61.jpg
+321,Expressionism,Amedeo_Modigliani_62.jpg,../train_images\Expressionism\Amedeo_Modigliani_62.jpg
+322,Expressionism,Amedeo_Modigliani_65.jpg,../train_images\Expressionism\Amedeo_Modigliani_65.jpg
+323,Expressionism,Amedeo_Modigliani_67.jpg,../train_images\Expressionism\Amedeo_Modigliani_67.jpg
+324,Expressionism,Amedeo_Modigliani_71.jpg,../train_images\Expressionism\Amedeo_Modigliani_71.jpg
+325,Expressionism,Amedeo_Modigliani_72.jpg,../train_images\Expressionism\Amedeo_Modigliani_72.jpg
+326,Expressionism,Amedeo_Modigliani_75.jpg,../train_images\Expressionism\Amedeo_Modigliani_75.jpg
+327,Expressionism,Amedeo_Modigliani_76.jpg,../train_images\Expressionism\Amedeo_Modigliani_76.jpg
+328,Expressionism,Amedeo_Modigliani_77.jpg,../train_images\Expressionism\Amedeo_Modigliani_77.jpg
+329,Expressionism,Amedeo_Modigliani_79.jpg,../train_images\Expressionism\Amedeo_Modigliani_79.jpg
+330,Expressionism,Amedeo_Modigliani_8.jpg,../train_images\Expressionism\Amedeo_Modigliani_8.jpg
+331,Expressionism,Amedeo_Modigliani_86.jpg,../train_images\Expressionism\Amedeo_Modigliani_86.jpg
+332,Expressionism,Amedeo_Modigliani_87.jpg,../train_images\Expressionism\Amedeo_Modigliani_87.jpg
+333,Expressionism,Amedeo_Modigliani_88.jpg,../train_images\Expressionism\Amedeo_Modigliani_88.jpg
+334,Expressionism,Amedeo_Modigliani_90.jpg,../train_images\Expressionism\Amedeo_Modigliani_90.jpg
+335,Expressionism,Amedeo_Modigliani_91.jpg,../train_images\Expressionism\Amedeo_Modigliani_91.jpg
+336,Expressionism,Amedeo_Modigliani_92.jpg,../train_images\Expressionism\Amedeo_Modigliani_92.jpg
+337,Expressionism,Amedeo_Modigliani_95.jpg,../train_images\Expressionism\Amedeo_Modigliani_95.jpg
+338,Expressionism,Amedeo_Modigliani_96.jpg,../train_images\Expressionism\Amedeo_Modigliani_96.jpg
+339,Expressionism,Amedeo_Modigliani_99.jpg,../train_images\Expressionism\Amedeo_Modigliani_99.jpg
+340,Impressionism,Alfred_Sisley_1.jpg,../train_images\Impressionism\Alfred_Sisley_1.jpg
+341,Impressionism,Alfred_Sisley_101.jpg,../train_images\Impressionism\Alfred_Sisley_101.jpg
+342,Impressionism,Alfred_Sisley_104.jpg,../train_images\Impressionism\Alfred_Sisley_104.jpg
+343,Impressionism,Alfred_Sisley_105.jpg,../train_images\Impressionism\Alfred_Sisley_105.jpg
+344,Impressionism,Alfred_Sisley_11.jpg,../train_images\Impressionism\Alfred_Sisley_11.jpg
+345,Impressionism,Alfred_Sisley_112.jpg,../train_images\Impressionism\Alfred_Sisley_112.jpg
+346,Impressionism,Alfred_Sisley_113.jpg,../train_images\Impressionism\Alfred_Sisley_113.jpg
+347,Impressionism,Alfred_Sisley_114.jpg,../train_images\Impressionism\Alfred_Sisley_114.jpg
+348,Impressionism,Alfred_Sisley_116.jpg,../train_images\Impressionism\Alfred_Sisley_116.jpg
+349,Impressionism,Alfred_Sisley_118.jpg,../train_images\Impressionism\Alfred_Sisley_118.jpg
+350,Impressionism,Alfred_Sisley_119.jpg,../train_images\Impressionism\Alfred_Sisley_119.jpg
+351,Impressionism,Alfred_Sisley_120.jpg,../train_images\Impressionism\Alfred_Sisley_120.jpg
+352,Impressionism,Alfred_Sisley_123.jpg,../train_images\Impressionism\Alfred_Sisley_123.jpg
+353,Impressionism,Alfred_Sisley_124.jpg,../train_images\Impressionism\Alfred_Sisley_124.jpg
+354,Impressionism,Alfred_Sisley_134.jpg,../train_images\Impressionism\Alfred_Sisley_134.jpg
+355,Impressionism,Alfred_Sisley_136.jpg,../train_images\Impressionism\Alfred_Sisley_136.jpg
+356,Impressionism,Alfred_Sisley_141.jpg,../train_images\Impressionism\Alfred_Sisley_141.jpg
+357,Impressionism,Alfred_Sisley_144.jpg,../train_images\Impressionism\Alfred_Sisley_144.jpg
+358,Impressionism,Alfred_Sisley_147.jpg,../train_images\Impressionism\Alfred_Sisley_147.jpg
+359,Impressionism,Alfred_Sisley_15.jpg,../train_images\Impressionism\Alfred_Sisley_15.jpg
+360,Impressionism,Alfred_Sisley_150.jpg,../train_images\Impressionism\Alfred_Sisley_150.jpg
+361,Impressionism,Alfred_Sisley_152.jpg,../train_images\Impressionism\Alfred_Sisley_152.jpg
+362,Impressionism,Alfred_Sisley_153.jpg,../train_images\Impressionism\Alfred_Sisley_153.jpg
+363,Impressionism,Alfred_Sisley_159.jpg,../train_images\Impressionism\Alfred_Sisley_159.jpg
+364,Impressionism,Alfred_Sisley_16.jpg,../train_images\Impressionism\Alfred_Sisley_16.jpg
+365,Impressionism,Alfred_Sisley_160.jpg,../train_images\Impressionism\Alfred_Sisley_160.jpg
+366,Impressionism,Alfred_Sisley_161.jpg,../train_images\Impressionism\Alfred_Sisley_161.jpg
+367,Impressionism,Alfred_Sisley_162.jpg,../train_images\Impressionism\Alfred_Sisley_162.jpg
+368,Impressionism,Alfred_Sisley_167.jpg,../train_images\Impressionism\Alfred_Sisley_167.jpg
+369,Impressionism,Alfred_Sisley_168.jpg,../train_images\Impressionism\Alfred_Sisley_168.jpg
+370,Impressionism,Alfred_Sisley_169.jpg,../train_images\Impressionism\Alfred_Sisley_169.jpg
+371,Impressionism,Alfred_Sisley_170.jpg,../train_images\Impressionism\Alfred_Sisley_170.jpg
+372,Impressionism,Alfred_Sisley_171.jpg,../train_images\Impressionism\Alfred_Sisley_171.jpg
+373,Impressionism,Alfred_Sisley_178.jpg,../train_images\Impressionism\Alfred_Sisley_178.jpg
+374,Impressionism,Alfred_Sisley_179.jpg,../train_images\Impressionism\Alfred_Sisley_179.jpg
+375,Impressionism,Alfred_Sisley_18.jpg,../train_images\Impressionism\Alfred_Sisley_18.jpg
+376,Impressionism,Alfred_Sisley_185.jpg,../train_images\Impressionism\Alfred_Sisley_185.jpg
+377,Impressionism,Alfred_Sisley_186.jpg,../train_images\Impressionism\Alfred_Sisley_186.jpg
+378,Impressionism,Alfred_Sisley_189.jpg,../train_images\Impressionism\Alfred_Sisley_189.jpg
+379,Impressionism,Alfred_Sisley_19.jpg,../train_images\Impressionism\Alfred_Sisley_19.jpg
+380,Impressionism,Alfred_Sisley_192.jpg,../train_images\Impressionism\Alfred_Sisley_192.jpg
+381,Impressionism,Alfred_Sisley_193.jpg,../train_images\Impressionism\Alfred_Sisley_193.jpg
+382,Impressionism,Alfred_Sisley_195.jpg,../train_images\Impressionism\Alfred_Sisley_195.jpg
+383,Impressionism,Alfred_Sisley_200.jpg,../train_images\Impressionism\Alfred_Sisley_200.jpg
+384,Impressionism,Alfred_Sisley_201.jpg,../train_images\Impressionism\Alfred_Sisley_201.jpg
+385,Impressionism,Alfred_Sisley_208.jpg,../train_images\Impressionism\Alfred_Sisley_208.jpg
+386,Impressionism,Alfred_Sisley_210.jpg,../train_images\Impressionism\Alfred_Sisley_210.jpg
+387,Impressionism,Alfred_Sisley_212.jpg,../train_images\Impressionism\Alfred_Sisley_212.jpg
+388,Impressionism,Alfred_Sisley_214.jpg,../train_images\Impressionism\Alfred_Sisley_214.jpg
+389,Impressionism,Alfred_Sisley_215.jpg,../train_images\Impressionism\Alfred_Sisley_215.jpg
+390,Impressionism,Alfred_Sisley_218.jpg,../train_images\Impressionism\Alfred_Sisley_218.jpg
+391,Impressionism,Alfred_Sisley_22.jpg,../train_images\Impressionism\Alfred_Sisley_22.jpg
+392,Impressionism,Alfred_Sisley_220.jpg,../train_images\Impressionism\Alfred_Sisley_220.jpg
+393,Impressionism,Alfred_Sisley_224.jpg,../train_images\Impressionism\Alfred_Sisley_224.jpg
+394,Impressionism,Alfred_Sisley_225.jpg,../train_images\Impressionism\Alfred_Sisley_225.jpg
+395,Impressionism,Alfred_Sisley_226.jpg,../train_images\Impressionism\Alfred_Sisley_226.jpg
+396,Impressionism,Alfred_Sisley_23.jpg,../train_images\Impressionism\Alfred_Sisley_23.jpg
+397,Impressionism,Alfred_Sisley_232.jpg,../train_images\Impressionism\Alfred_Sisley_232.jpg
+398,Impressionism,Alfred_Sisley_236.jpg,../train_images\Impressionism\Alfred_Sisley_236.jpg
+399,Impressionism,Alfred_Sisley_237.jpg,../train_images\Impressionism\Alfred_Sisley_237.jpg
+400,Impressionism,Alfred_Sisley_239.jpg,../train_images\Impressionism\Alfred_Sisley_239.jpg
+401,Impressionism,Alfred_Sisley_242.jpg,../train_images\Impressionism\Alfred_Sisley_242.jpg
+402,Impressionism,Alfred_Sisley_245.jpg,../train_images\Impressionism\Alfred_Sisley_245.jpg
+403,Impressionism,Alfred_Sisley_247.jpg,../train_images\Impressionism\Alfred_Sisley_247.jpg
+404,Impressionism,Alfred_Sisley_249.jpg,../train_images\Impressionism\Alfred_Sisley_249.jpg
+405,Impressionism,Alfred_Sisley_251.jpg,../train_images\Impressionism\Alfred_Sisley_251.jpg
+406,Impressionism,Alfred_Sisley_252.jpg,../train_images\Impressionism\Alfred_Sisley_252.jpg
+407,Impressionism,Alfred_Sisley_254.jpg,../train_images\Impressionism\Alfred_Sisley_254.jpg
+408,Impressionism,Alfred_Sisley_255.jpg,../train_images\Impressionism\Alfred_Sisley_255.jpg
+409,Impressionism,Alfred_Sisley_256.jpg,../train_images\Impressionism\Alfred_Sisley_256.jpg
+410,Impressionism,Alfred_Sisley_258.jpg,../train_images\Impressionism\Alfred_Sisley_258.jpg
+411,Impressionism,Alfred_Sisley_259.jpg,../train_images\Impressionism\Alfred_Sisley_259.jpg
+412,Impressionism,Alfred_Sisley_28.jpg,../train_images\Impressionism\Alfred_Sisley_28.jpg
+413,Impressionism,Alfred_Sisley_34.jpg,../train_images\Impressionism\Alfred_Sisley_34.jpg
+414,Impressionism,Alfred_Sisley_39.jpg,../train_images\Impressionism\Alfred_Sisley_39.jpg
+415,Impressionism,Alfred_Sisley_43.jpg,../train_images\Impressionism\Alfred_Sisley_43.jpg
+416,Impressionism,Alfred_Sisley_44.jpg,../train_images\Impressionism\Alfred_Sisley_44.jpg
+417,Impressionism,Alfred_Sisley_45.jpg,../train_images\Impressionism\Alfred_Sisley_45.jpg
+418,Impressionism,Alfred_Sisley_47.jpg,../train_images\Impressionism\Alfred_Sisley_47.jpg
+419,Impressionism,Alfred_Sisley_50.jpg,../train_images\Impressionism\Alfred_Sisley_50.jpg
+420,Impressionism,Alfred_Sisley_53.jpg,../train_images\Impressionism\Alfred_Sisley_53.jpg
+421,Impressionism,Alfred_Sisley_54.jpg,../train_images\Impressionism\Alfred_Sisley_54.jpg
+422,Impressionism,Alfred_Sisley_55.jpg,../train_images\Impressionism\Alfred_Sisley_55.jpg
+423,Impressionism,Alfred_Sisley_59.jpg,../train_images\Impressionism\Alfred_Sisley_59.jpg
+424,Impressionism,Alfred_Sisley_60.jpg,../train_images\Impressionism\Alfred_Sisley_60.jpg
+425,Impressionism,Alfred_Sisley_65.jpg,../train_images\Impressionism\Alfred_Sisley_65.jpg
+426,Impressionism,Alfred_Sisley_68.jpg,../train_images\Impressionism\Alfred_Sisley_68.jpg
+427,Impressionism,Alfred_Sisley_70.jpg,../train_images\Impressionism\Alfred_Sisley_70.jpg
+428,Impressionism,Alfred_Sisley_71.jpg,../train_images\Impressionism\Alfred_Sisley_71.jpg
+429,Impressionism,Alfred_Sisley_77.jpg,../train_images\Impressionism\Alfred_Sisley_77.jpg
+430,Impressionism,Alfred_Sisley_78.jpg,../train_images\Impressionism\Alfred_Sisley_78.jpg
+431,Impressionism,Alfred_Sisley_79.jpg,../train_images\Impressionism\Alfred_Sisley_79.jpg
+432,Impressionism,Alfred_Sisley_83.jpg,../train_images\Impressionism\Alfred_Sisley_83.jpg
+433,Impressionism,Alfred_Sisley_84.jpg,../train_images\Impressionism\Alfred_Sisley_84.jpg
+434,Impressionism,Alfred_Sisley_86.jpg,../train_images\Impressionism\Alfred_Sisley_86.jpg
+435,Impressionism,Alfred_Sisley_87.jpg,../train_images\Impressionism\Alfred_Sisley_87.jpg
+436,Impressionism,Alfred_Sisley_88.jpg,../train_images\Impressionism\Alfred_Sisley_88.jpg
+437,Impressionism,Alfred_Sisley_89.jpg,../train_images\Impressionism\Alfred_Sisley_89.jpg
+438,Impressionism,Alfred_Sisley_9.jpg,../train_images\Impressionism\Alfred_Sisley_9.jpg
+439,Impressionism,Alfred_Sisley_90.jpg,../train_images\Impressionism\Alfred_Sisley_90.jpg
+440,Impressionism,Alfred_Sisley_93.jpg,../train_images\Impressionism\Alfred_Sisley_93.jpg
+441,Impressionism,Alfred_Sisley_96.jpg,../train_images\Impressionism\Alfred_Sisley_96.jpg
+442,Impressionism,Alfred_Sisley_97.jpg,../train_images\Impressionism\Alfred_Sisley_97.jpg
+443,Impressionism,Alfred_Sisley_98.jpg,../train_images\Impressionism\Alfred_Sisley_98.jpg
+444,Impressionism,Alfred_Sisley_99.jpg,../train_images\Impressionism\Alfred_Sisley_99.jpg
+445,Impressionism,Claude_Monet_1.jpg,../train_images\Impressionism\Claude_Monet_1.jpg
+446,Impressionism,Claude_Monet_10.jpg,../train_images\Impressionism\Claude_Monet_10.jpg
+447,Impressionism,Claude_Monet_11.jpg,../train_images\Impressionism\Claude_Monet_11.jpg
+448,Impressionism,Claude_Monet_13.jpg,../train_images\Impressionism\Claude_Monet_13.jpg
+449,Impressionism,Claude_Monet_15.jpg,../train_images\Impressionism\Claude_Monet_15.jpg
+450,Impressionism,Claude_Monet_16.jpg,../train_images\Impressionism\Claude_Monet_16.jpg
+451,Impressionism,Claude_Monet_19.jpg,../train_images\Impressionism\Claude_Monet_19.jpg
+452,Impressionism,Claude_Monet_2.jpg,../train_images\Impressionism\Claude_Monet_2.jpg
+453,Impressionism,Claude_Monet_28.jpg,../train_images\Impressionism\Claude_Monet_28.jpg
+454,Impressionism,Claude_Monet_29.jpg,../train_images\Impressionism\Claude_Monet_29.jpg
+455,Impressionism,Claude_Monet_3.jpg,../train_images\Impressionism\Claude_Monet_3.jpg
+456,Impressionism,Claude_Monet_30.jpg,../train_images\Impressionism\Claude_Monet_30.jpg
+457,Impressionism,Claude_Monet_34.jpg,../train_images\Impressionism\Claude_Monet_34.jpg
+458,Impressionism,Claude_Monet_39.jpg,../train_images\Impressionism\Claude_Monet_39.jpg
+459,Impressionism,Claude_Monet_42.jpg,../train_images\Impressionism\Claude_Monet_42.jpg
+460,Impressionism,Claude_Monet_43.jpg,../train_images\Impressionism\Claude_Monet_43.jpg
+461,Impressionism,Claude_Monet_44.jpg,../train_images\Impressionism\Claude_Monet_44.jpg
+462,Impressionism,Claude_Monet_46.jpg,../train_images\Impressionism\Claude_Monet_46.jpg
+463,Impressionism,Claude_Monet_48.jpg,../train_images\Impressionism\Claude_Monet_48.jpg
+464,Impressionism,Claude_Monet_49.jpg,../train_images\Impressionism\Claude_Monet_49.jpg
+465,Impressionism,Claude_Monet_51.jpg,../train_images\Impressionism\Claude_Monet_51.jpg
+466,Impressionism,Claude_Monet_52.jpg,../train_images\Impressionism\Claude_Monet_52.jpg
+467,Impressionism,Claude_Monet_54.jpg,../train_images\Impressionism\Claude_Monet_54.jpg
+468,Impressionism,Claude_Monet_6.jpg,../train_images\Impressionism\Claude_Monet_6.jpg
+469,Impressionism,Claude_Monet_63.jpg,../train_images\Impressionism\Claude_Monet_63.jpg
+470,Impressionism,Claude_Monet_65.jpg,../train_images\Impressionism\Claude_Monet_65.jpg
+471,Impressionism,Claude_Monet_66.jpg,../train_images\Impressionism\Claude_Monet_66.jpg
+472,Impressionism,Claude_Monet_67.jpg,../train_images\Impressionism\Claude_Monet_67.jpg
+473,Impressionism,Claude_Monet_68.jpg,../train_images\Impressionism\Claude_Monet_68.jpg
+474,Impressionism,Claude_Monet_69.jpg,../train_images\Impressionism\Claude_Monet_69.jpg
+475,Impressionism,Claude_Monet_71.jpg,../train_images\Impressionism\Claude_Monet_71.jpg
+476,Impressionism,Claude_Monet_72.jpg,../train_images\Impressionism\Claude_Monet_72.jpg
+477,Impressionism,Edgar_Degas_102.jpg,../train_images\Impressionism\Edgar_Degas_102.jpg
+478,Impressionism,Edgar_Degas_103.jpg,../train_images\Impressionism\Edgar_Degas_103.jpg
+479,Impressionism,Edgar_Degas_104.jpg,../train_images\Impressionism\Edgar_Degas_104.jpg
+480,Impressionism,Edgar_Degas_107.jpg,../train_images\Impressionism\Edgar_Degas_107.jpg
+481,Impressionism,Edgar_Degas_11.jpg,../train_images\Impressionism\Edgar_Degas_11.jpg
+482,Impressionism,Edgar_Degas_111.jpg,../train_images\Impressionism\Edgar_Degas_111.jpg
+483,Impressionism,Edgar_Degas_112.jpg,../train_images\Impressionism\Edgar_Degas_112.jpg
+484,Impressionism,Edgar_Degas_113.jpg,../train_images\Impressionism\Edgar_Degas_113.jpg
+485,Impressionism,Edgar_Degas_116.jpg,../train_images\Impressionism\Edgar_Degas_116.jpg
+486,Impressionism,Edgar_Degas_118.jpg,../train_images\Impressionism\Edgar_Degas_118.jpg
+487,Impressionism,Edgar_Degas_121.jpg,../train_images\Impressionism\Edgar_Degas_121.jpg
+488,Impressionism,Edgar_Degas_122.jpg,../train_images\Impressionism\Edgar_Degas_122.jpg
+489,Impressionism,Edgar_Degas_123.jpg,../train_images\Impressionism\Edgar_Degas_123.jpg
+490,Impressionism,Edgar_Degas_128.jpg,../train_images\Impressionism\Edgar_Degas_128.jpg
+491,Impressionism,Edgar_Degas_129.jpg,../train_images\Impressionism\Edgar_Degas_129.jpg
+492,Impressionism,Edgar_Degas_130.jpg,../train_images\Impressionism\Edgar_Degas_130.jpg
+493,Impressionism,Edgar_Degas_131.jpg,../train_images\Impressionism\Edgar_Degas_131.jpg
+494,Impressionism,Edgar_Degas_133.jpg,../train_images\Impressionism\Edgar_Degas_133.jpg
+495,Impressionism,Edgar_Degas_134.jpg,../train_images\Impressionism\Edgar_Degas_134.jpg
+496,Impressionism,Edgar_Degas_136.jpg,../train_images\Impressionism\Edgar_Degas_136.jpg
+497,Impressionism,Edgar_Degas_137.jpg,../train_images\Impressionism\Edgar_Degas_137.jpg
+498,Impressionism,Edgar_Degas_140.jpg,../train_images\Impressionism\Edgar_Degas_140.jpg
+499,Impressionism,Edgar_Degas_141.jpg,../train_images\Impressionism\Edgar_Degas_141.jpg
+500,Impressionism,Edgar_Degas_146.jpg,../train_images\Impressionism\Edgar_Degas_146.jpg
+501,Impressionism,Edgar_Degas_147.jpg,../train_images\Impressionism\Edgar_Degas_147.jpg
+502,Impressionism,Edgar_Degas_148.jpg,../train_images\Impressionism\Edgar_Degas_148.jpg
+503,Impressionism,Edgar_Degas_149.jpg,../train_images\Impressionism\Edgar_Degas_149.jpg
+504,Impressionism,Edgar_Degas_150.jpg,../train_images\Impressionism\Edgar_Degas_150.jpg
+505,Impressionism,Edgar_Degas_153.jpg,../train_images\Impressionism\Edgar_Degas_153.jpg
+506,Impressionism,Edgar_Degas_156.jpg,../train_images\Impressionism\Edgar_Degas_156.jpg
+507,Impressionism,Edgar_Degas_157.jpg,../train_images\Impressionism\Edgar_Degas_157.jpg
+508,Impressionism,Edgar_Degas_158.jpg,../train_images\Impressionism\Edgar_Degas_158.jpg
+509,Impressionism,Edgar_Degas_160.jpg,../train_images\Impressionism\Edgar_Degas_160.jpg
+510,Impressionism,Edgar_Degas_162.jpg,../train_images\Impressionism\Edgar_Degas_162.jpg
+511,Impressionism,Edgar_Degas_164.jpg,../train_images\Impressionism\Edgar_Degas_164.jpg
+512,Impressionism,Edgar_Degas_165.jpg,../train_images\Impressionism\Edgar_Degas_165.jpg
+513,Impressionism,Edgar_Degas_169.jpg,../train_images\Impressionism\Edgar_Degas_169.jpg
+514,Impressionism,Edgar_Degas_170.jpg,../train_images\Impressionism\Edgar_Degas_170.jpg
+515,Impressionism,Edgar_Degas_171.jpg,../train_images\Impressionism\Edgar_Degas_171.jpg
+516,Impressionism,Edgar_Degas_175.jpg,../train_images\Impressionism\Edgar_Degas_175.jpg
+517,Impressionism,Edgar_Degas_176.jpg,../train_images\Impressionism\Edgar_Degas_176.jpg
+518,Impressionism,Edgar_Degas_177.jpg,../train_images\Impressionism\Edgar_Degas_177.jpg
+519,Impressionism,Edgar_Degas_179.jpg,../train_images\Impressionism\Edgar_Degas_179.jpg
+520,Impressionism,Edgar_Degas_181.jpg,../train_images\Impressionism\Edgar_Degas_181.jpg
+521,Impressionism,Edgar_Degas_182.jpg,../train_images\Impressionism\Edgar_Degas_182.jpg
+522,Impressionism,Edgar_Degas_189.jpg,../train_images\Impressionism\Edgar_Degas_189.jpg
+523,Impressionism,Edgar_Degas_19.jpg,../train_images\Impressionism\Edgar_Degas_19.jpg
+524,Impressionism,Edgar_Degas_191.jpg,../train_images\Impressionism\Edgar_Degas_191.jpg
+525,Impressionism,Edgar_Degas_193.jpg,../train_images\Impressionism\Edgar_Degas_193.jpg
+526,Impressionism,Edgar_Degas_195.jpg,../train_images\Impressionism\Edgar_Degas_195.jpg
+527,Impressionism,Edgar_Degas_199.jpg,../train_images\Impressionism\Edgar_Degas_199.jpg
+528,Impressionism,Edgar_Degas_200.jpg,../train_images\Impressionism\Edgar_Degas_200.jpg
+529,Impressionism,Edgar_Degas_202.jpg,../train_images\Impressionism\Edgar_Degas_202.jpg
+530,Impressionism,Edgar_Degas_203.jpg,../train_images\Impressionism\Edgar_Degas_203.jpg
+531,Impressionism,Edgar_Degas_205.jpg,../train_images\Impressionism\Edgar_Degas_205.jpg
+532,Impressionism,Edgar_Degas_206.jpg,../train_images\Impressionism\Edgar_Degas_206.jpg
+533,Impressionism,Edgar_Degas_208.jpg,../train_images\Impressionism\Edgar_Degas_208.jpg
+534,Impressionism,Edgar_Degas_209.jpg,../train_images\Impressionism\Edgar_Degas_209.jpg
+535,Impressionism,Edgar_Degas_211.jpg,../train_images\Impressionism\Edgar_Degas_211.jpg
+536,Impressionism,Edgar_Degas_212.jpg,../train_images\Impressionism\Edgar_Degas_212.jpg
+537,Impressionism,Edgar_Degas_213.jpg,../train_images\Impressionism\Edgar_Degas_213.jpg
+538,Impressionism,Edgar_Degas_214.jpg,../train_images\Impressionism\Edgar_Degas_214.jpg
+539,Impressionism,Edgar_Degas_216.jpg,../train_images\Impressionism\Edgar_Degas_216.jpg
+540,Impressionism,Edgar_Degas_218.jpg,../train_images\Impressionism\Edgar_Degas_218.jpg
+541,Impressionism,Edgar_Degas_22.jpg,../train_images\Impressionism\Edgar_Degas_22.jpg
+542,Impressionism,Edgar_Degas_220.jpg,../train_images\Impressionism\Edgar_Degas_220.jpg
+543,Impressionism,Edgar_Degas_221.jpg,../train_images\Impressionism\Edgar_Degas_221.jpg
+544,Impressionism,Edgar_Degas_222.jpg,../train_images\Impressionism\Edgar_Degas_222.jpg
+545,Impressionism,Edgar_Degas_223.jpg,../train_images\Impressionism\Edgar_Degas_223.jpg
+546,Impressionism,Edgar_Degas_224.jpg,../train_images\Impressionism\Edgar_Degas_224.jpg
+547,Impressionism,Edgar_Degas_225.jpg,../train_images\Impressionism\Edgar_Degas_225.jpg
+548,Impressionism,Edgar_Degas_23.jpg,../train_images\Impressionism\Edgar_Degas_23.jpg
+549,Impressionism,Edgar_Degas_231.jpg,../train_images\Impressionism\Edgar_Degas_231.jpg
+550,Impressionism,Edgar_Degas_232.jpg,../train_images\Impressionism\Edgar_Degas_232.jpg
+551,Impressionism,Edgar_Degas_233.jpg,../train_images\Impressionism\Edgar_Degas_233.jpg
+552,Impressionism,Edgar_Degas_234.jpg,../train_images\Impressionism\Edgar_Degas_234.jpg
+553,Impressionism,Edgar_Degas_236.jpg,../train_images\Impressionism\Edgar_Degas_236.jpg
+554,Impressionism,Edgar_Degas_237.jpg,../train_images\Impressionism\Edgar_Degas_237.jpg
+555,Impressionism,Edgar_Degas_243.jpg,../train_images\Impressionism\Edgar_Degas_243.jpg
+556,Impressionism,Edgar_Degas_244.jpg,../train_images\Impressionism\Edgar_Degas_244.jpg
+557,Impressionism,Edgar_Degas_245.jpg,../train_images\Impressionism\Edgar_Degas_245.jpg
+558,Impressionism,Edgar_Degas_246.jpg,../train_images\Impressionism\Edgar_Degas_246.jpg
+559,Impressionism,Edgar_Degas_248.jpg,../train_images\Impressionism\Edgar_Degas_248.jpg
+560,Impressionism,Edgar_Degas_252.jpg,../train_images\Impressionism\Edgar_Degas_252.jpg
+561,Impressionism,Edgar_Degas_255.jpg,../train_images\Impressionism\Edgar_Degas_255.jpg
+562,Impressionism,Edgar_Degas_256.jpg,../train_images\Impressionism\Edgar_Degas_256.jpg
+563,Impressionism,Edgar_Degas_258.jpg,../train_images\Impressionism\Edgar_Degas_258.jpg
+564,Impressionism,Edgar_Degas_259.jpg,../train_images\Impressionism\Edgar_Degas_259.jpg
+565,Impressionism,Edgar_Degas_261.jpg,../train_images\Impressionism\Edgar_Degas_261.jpg
+566,Impressionism,Edgar_Degas_262.jpg,../train_images\Impressionism\Edgar_Degas_262.jpg
+567,Impressionism,Edgar_Degas_263.jpg,../train_images\Impressionism\Edgar_Degas_263.jpg
+568,Impressionism,Edgar_Degas_264.jpg,../train_images\Impressionism\Edgar_Degas_264.jpg
+569,Impressionism,Edgar_Degas_266.jpg,../train_images\Impressionism\Edgar_Degas_266.jpg
+570,Impressionism,Edgar_Degas_267.jpg,../train_images\Impressionism\Edgar_Degas_267.jpg
+571,Impressionism,Edgar_Degas_268.jpg,../train_images\Impressionism\Edgar_Degas_268.jpg
+572,Impressionism,Edgar_Degas_269.jpg,../train_images\Impressionism\Edgar_Degas_269.jpg
+573,Impressionism,Edgar_Degas_27.jpg,../train_images\Impressionism\Edgar_Degas_27.jpg
+574,Impressionism,Edgar_Degas_270.jpg,../train_images\Impressionism\Edgar_Degas_270.jpg
+575,Impressionism,Edgar_Degas_271.jpg,../train_images\Impressionism\Edgar_Degas_271.jpg
+576,Impressionism,Edgar_Degas_275.jpg,../train_images\Impressionism\Edgar_Degas_275.jpg
+577,Impressionism,Edgar_Degas_279.jpg,../train_images\Impressionism\Edgar_Degas_279.jpg
+578,Impressionism,Edgar_Degas_28.jpg,../train_images\Impressionism\Edgar_Degas_28.jpg
+579,Impressionism,Edgar_Degas_282.jpg,../train_images\Impressionism\Edgar_Degas_282.jpg
+580,Impressionism,Edgar_Degas_283.jpg,../train_images\Impressionism\Edgar_Degas_283.jpg
+581,Impressionism,Edgar_Degas_284.jpg,../train_images\Impressionism\Edgar_Degas_284.jpg
+582,Impressionism,Edgar_Degas_285.jpg,../train_images\Impressionism\Edgar_Degas_285.jpg
+583,Impressionism,Edgar_Degas_286.jpg,../train_images\Impressionism\Edgar_Degas_286.jpg
+584,Impressionism,Edgar_Degas_288.jpg,../train_images\Impressionism\Edgar_Degas_288.jpg
+585,Impressionism,Edgar_Degas_289.jpg,../train_images\Impressionism\Edgar_Degas_289.jpg
+586,Impressionism,Edgar_Degas_29.jpg,../train_images\Impressionism\Edgar_Degas_29.jpg
+587,Impressionism,Edgar_Degas_290.jpg,../train_images\Impressionism\Edgar_Degas_290.jpg
+588,Impressionism,Edgar_Degas_294.jpg,../train_images\Impressionism\Edgar_Degas_294.jpg
+589,Impressionism,Edgar_Degas_296.jpg,../train_images\Impressionism\Edgar_Degas_296.jpg
+590,Impressionism,Edgar_Degas_298.jpg,../train_images\Impressionism\Edgar_Degas_298.jpg
+591,Impressionism,Edgar_Degas_299.jpg,../train_images\Impressionism\Edgar_Degas_299.jpg
+592,Impressionism,Edgar_Degas_300.jpg,../train_images\Impressionism\Edgar_Degas_300.jpg
+593,Impressionism,Edgar_Degas_302.jpg,../train_images\Impressionism\Edgar_Degas_302.jpg
+594,Impressionism,Edgar_Degas_303.jpg,../train_images\Impressionism\Edgar_Degas_303.jpg
+595,Impressionism,Edgar_Degas_305.jpg,../train_images\Impressionism\Edgar_Degas_305.jpg
+596,Impressionism,Edgar_Degas_307.jpg,../train_images\Impressionism\Edgar_Degas_307.jpg
+597,Impressionism,Edgar_Degas_31.jpg,../train_images\Impressionism\Edgar_Degas_31.jpg
+598,Impressionism,Edgar_Degas_311.jpg,../train_images\Impressionism\Edgar_Degas_311.jpg
+599,Impressionism,Edgar_Degas_312.jpg,../train_images\Impressionism\Edgar_Degas_312.jpg
+600,Impressionism,Edgar_Degas_313.jpg,../train_images\Impressionism\Edgar_Degas_313.jpg
+601,Impressionism,Edgar_Degas_316.jpg,../train_images\Impressionism\Edgar_Degas_316.jpg
+602,Impressionism,Edgar_Degas_318.jpg,../train_images\Impressionism\Edgar_Degas_318.jpg
+603,Impressionism,Edgar_Degas_319.jpg,../train_images\Impressionism\Edgar_Degas_319.jpg
+604,Impressionism,Edgar_Degas_32.jpg,../train_images\Impressionism\Edgar_Degas_32.jpg
+605,Impressionism,Edgar_Degas_323.jpg,../train_images\Impressionism\Edgar_Degas_323.jpg
+606,Impressionism,Edgar_Degas_325.jpg,../train_images\Impressionism\Edgar_Degas_325.jpg
+607,Impressionism,Edgar_Degas_330.jpg,../train_images\Impressionism\Edgar_Degas_330.jpg
+608,Impressionism,Edgar_Degas_332.jpg,../train_images\Impressionism\Edgar_Degas_332.jpg
+609,Impressionism,Edgar_Degas_333.jpg,../train_images\Impressionism\Edgar_Degas_333.jpg
+610,Impressionism,Edgar_Degas_334.jpg,../train_images\Impressionism\Edgar_Degas_334.jpg
+611,Impressionism,Edgar_Degas_339.jpg,../train_images\Impressionism\Edgar_Degas_339.jpg
+612,Impressionism,Edgar_Degas_34.jpg,../train_images\Impressionism\Edgar_Degas_34.jpg
+613,Impressionism,Edgar_Degas_341.jpg,../train_images\Impressionism\Edgar_Degas_341.jpg
+614,Impressionism,Edgar_Degas_344.jpg,../train_images\Impressionism\Edgar_Degas_344.jpg
+615,Impressionism,Edgar_Degas_346.jpg,../train_images\Impressionism\Edgar_Degas_346.jpg
+616,Impressionism,Edgar_Degas_348.jpg,../train_images\Impressionism\Edgar_Degas_348.jpg
+617,Impressionism,Edgar_Degas_349.jpg,../train_images\Impressionism\Edgar_Degas_349.jpg
+618,Impressionism,Edgar_Degas_350.jpg,../train_images\Impressionism\Edgar_Degas_350.jpg
+619,Impressionism,Edgar_Degas_351.jpg,../train_images\Impressionism\Edgar_Degas_351.jpg
+620,Impressionism,Edgar_Degas_355.jpg,../train_images\Impressionism\Edgar_Degas_355.jpg
+621,Impressionism,Edgar_Degas_357.jpg,../train_images\Impressionism\Edgar_Degas_357.jpg
+622,Impressionism,Edgar_Degas_359.jpg,../train_images\Impressionism\Edgar_Degas_359.jpg
+623,Impressionism,Edgar_Degas_36.jpg,../train_images\Impressionism\Edgar_Degas_36.jpg
+624,Impressionism,Edgar_Degas_361.jpg,../train_images\Impressionism\Edgar_Degas_361.jpg
+625,Impressionism,Edgar_Degas_363.jpg,../train_images\Impressionism\Edgar_Degas_363.jpg
+626,Impressionism,Edgar_Degas_368.jpg,../train_images\Impressionism\Edgar_Degas_368.jpg
+627,Impressionism,Edgar_Degas_37.jpg,../train_images\Impressionism\Edgar_Degas_37.jpg
+628,Impressionism,Edgar_Degas_374.jpg,../train_images\Impressionism\Edgar_Degas_374.jpg
+629,Impressionism,Edgar_Degas_375.jpg,../train_images\Impressionism\Edgar_Degas_375.jpg
+630,Impressionism,Edgar_Degas_376.jpg,../train_images\Impressionism\Edgar_Degas_376.jpg
+631,Impressionism,Edgar_Degas_377.jpg,../train_images\Impressionism\Edgar_Degas_377.jpg
+632,Impressionism,Edgar_Degas_380.jpg,../train_images\Impressionism\Edgar_Degas_380.jpg
+633,Impressionism,Edgar_Degas_381.jpg,../train_images\Impressionism\Edgar_Degas_381.jpg
+634,Impressionism,Edgar_Degas_382.jpg,../train_images\Impressionism\Edgar_Degas_382.jpg
+635,Impressionism,Edgar_Degas_383.jpg,../train_images\Impressionism\Edgar_Degas_383.jpg
+636,Impressionism,Edgar_Degas_384.jpg,../train_images\Impressionism\Edgar_Degas_384.jpg
+637,Impressionism,Edgar_Degas_385.jpg,../train_images\Impressionism\Edgar_Degas_385.jpg
+638,Impressionism,Edgar_Degas_386.jpg,../train_images\Impressionism\Edgar_Degas_386.jpg
+639,Impressionism,Edgar_Degas_388.jpg,../train_images\Impressionism\Edgar_Degas_388.jpg
+640,Impressionism,Edgar_Degas_389.jpg,../train_images\Impressionism\Edgar_Degas_389.jpg
+641,Impressionism,Edgar_Degas_39.jpg,../train_images\Impressionism\Edgar_Degas_39.jpg
+642,Impressionism,Edgar_Degas_390.jpg,../train_images\Impressionism\Edgar_Degas_390.jpg
+643,Impressionism,Edgar_Degas_391.jpg,../train_images\Impressionism\Edgar_Degas_391.jpg
+644,Impressionism,Edgar_Degas_394.jpg,../train_images\Impressionism\Edgar_Degas_394.jpg
+645,Impressionism,Edgar_Degas_396.jpg,../train_images\Impressionism\Edgar_Degas_396.jpg
+646,Impressionism,Edgar_Degas_401.jpg,../train_images\Impressionism\Edgar_Degas_401.jpg
+647,Impressionism,Edgar_Degas_402.jpg,../train_images\Impressionism\Edgar_Degas_402.jpg
+648,Impressionism,Edgar_Degas_404.jpg,../train_images\Impressionism\Edgar_Degas_404.jpg
+649,Impressionism,Edgar_Degas_41.jpg,../train_images\Impressionism\Edgar_Degas_41.jpg
+650,Impressionism,Edgar_Degas_411.jpg,../train_images\Impressionism\Edgar_Degas_411.jpg
+651,Impressionism,Edgar_Degas_417.jpg,../train_images\Impressionism\Edgar_Degas_417.jpg
+652,Impressionism,Edgar_Degas_418.jpg,../train_images\Impressionism\Edgar_Degas_418.jpg
+653,Impressionism,Edgar_Degas_421.jpg,../train_images\Impressionism\Edgar_Degas_421.jpg
+654,Impressionism,Edgar_Degas_422.jpg,../train_images\Impressionism\Edgar_Degas_422.jpg
+655,Impressionism,Edgar_Degas_423.jpg,../train_images\Impressionism\Edgar_Degas_423.jpg
+656,Impressionism,Edgar_Degas_426.jpg,../train_images\Impressionism\Edgar_Degas_426.jpg
+657,Impressionism,Edgar_Degas_428.jpg,../train_images\Impressionism\Edgar_Degas_428.jpg
+658,Impressionism,Edgar_Degas_43.jpg,../train_images\Impressionism\Edgar_Degas_43.jpg
+659,Impressionism,Edgar_Degas_431.jpg,../train_images\Impressionism\Edgar_Degas_431.jpg
+660,Impressionism,Edgar_Degas_434.jpg,../train_images\Impressionism\Edgar_Degas_434.jpg
+661,Impressionism,Edgar_Degas_435.jpg,../train_images\Impressionism\Edgar_Degas_435.jpg
+662,Impressionism,Edgar_Degas_436.jpg,../train_images\Impressionism\Edgar_Degas_436.jpg
+663,Impressionism,Edgar_Degas_437.jpg,../train_images\Impressionism\Edgar_Degas_437.jpg
+664,Impressionism,Edgar_Degas_438.jpg,../train_images\Impressionism\Edgar_Degas_438.jpg
+665,Impressionism,Edgar_Degas_442.jpg,../train_images\Impressionism\Edgar_Degas_442.jpg
+666,Impressionism,Edgar_Degas_444.jpg,../train_images\Impressionism\Edgar_Degas_444.jpg
+667,Impressionism,Edgar_Degas_445.jpg,../train_images\Impressionism\Edgar_Degas_445.jpg
+668,Impressionism,Edgar_Degas_446.jpg,../train_images\Impressionism\Edgar_Degas_446.jpg
+669,Impressionism,Edgar_Degas_447.jpg,../train_images\Impressionism\Edgar_Degas_447.jpg
+670,Impressionism,Edgar_Degas_449.jpg,../train_images\Impressionism\Edgar_Degas_449.jpg
+671,Impressionism,Edgar_Degas_450.jpg,../train_images\Impressionism\Edgar_Degas_450.jpg
+672,Impressionism,Edgar_Degas_453.jpg,../train_images\Impressionism\Edgar_Degas_453.jpg
+673,Impressionism,Edgar_Degas_457.jpg,../train_images\Impressionism\Edgar_Degas_457.jpg
+674,Impressionism,Edgar_Degas_460.jpg,../train_images\Impressionism\Edgar_Degas_460.jpg
+675,Impressionism,Edgar_Degas_461.jpg,../train_images\Impressionism\Edgar_Degas_461.jpg
+676,Impressionism,Edgar_Degas_465.jpg,../train_images\Impressionism\Edgar_Degas_465.jpg
+677,Impressionism,Edgar_Degas_466.jpg,../train_images\Impressionism\Edgar_Degas_466.jpg
+678,Impressionism,Edgar_Degas_468.jpg,../train_images\Impressionism\Edgar_Degas_468.jpg
+679,Impressionism,Edgar_Degas_47.jpg,../train_images\Impressionism\Edgar_Degas_47.jpg
+680,Impressionism,Edgar_Degas_472.jpg,../train_images\Impressionism\Edgar_Degas_472.jpg
+681,Impressionism,Edgar_Degas_473.jpg,../train_images\Impressionism\Edgar_Degas_473.jpg
+682,Impressionism,Edgar_Degas_475.jpg,../train_images\Impressionism\Edgar_Degas_475.jpg
+683,Impressionism,Edgar_Degas_478.jpg,../train_images\Impressionism\Edgar_Degas_478.jpg
+684,Impressionism,Edgar_Degas_48.jpg,../train_images\Impressionism\Edgar_Degas_48.jpg
+685,Impressionism,Edgar_Degas_480.jpg,../train_images\Impressionism\Edgar_Degas_480.jpg
+686,Impressionism,Edgar_Degas_481.jpg,../train_images\Impressionism\Edgar_Degas_481.jpg
+687,Impressionism,Edgar_Degas_486.jpg,../train_images\Impressionism\Edgar_Degas_486.jpg
+688,Impressionism,Edgar_Degas_490.jpg,../train_images\Impressionism\Edgar_Degas_490.jpg
+689,Impressionism,Edgar_Degas_491.jpg,../train_images\Impressionism\Edgar_Degas_491.jpg
+690,Impressionism,Edgar_Degas_493.jpg,../train_images\Impressionism\Edgar_Degas_493.jpg
+691,Impressionism,Edgar_Degas_494.jpg,../train_images\Impressionism\Edgar_Degas_494.jpg
+692,Impressionism,Edgar_Degas_495.jpg,../train_images\Impressionism\Edgar_Degas_495.jpg
+693,Impressionism,Edgar_Degas_498.jpg,../train_images\Impressionism\Edgar_Degas_498.jpg
+694,Impressionism,Edgar_Degas_500.jpg,../train_images\Impressionism\Edgar_Degas_500.jpg
+695,Impressionism,Edgar_Degas_502.jpg,../train_images\Impressionism\Edgar_Degas_502.jpg
+696,Impressionism,Edgar_Degas_503.jpg,../train_images\Impressionism\Edgar_Degas_503.jpg
+697,Impressionism,Edgar_Degas_509.jpg,../train_images\Impressionism\Edgar_Degas_509.jpg
+698,Impressionism,Edgar_Degas_51.jpg,../train_images\Impressionism\Edgar_Degas_51.jpg
+699,Impressionism,Edgar_Degas_510.jpg,../train_images\Impressionism\Edgar_Degas_510.jpg
+700,Impressionism,Edgar_Degas_511.jpg,../train_images\Impressionism\Edgar_Degas_511.jpg
+701,Impressionism,Edgar_Degas_513.jpg,../train_images\Impressionism\Edgar_Degas_513.jpg
+702,Impressionism,Edgar_Degas_515.jpg,../train_images\Impressionism\Edgar_Degas_515.jpg
+703,Impressionism,Edgar_Degas_516.jpg,../train_images\Impressionism\Edgar_Degas_516.jpg
+704,Impressionism,Edgar_Degas_517.jpg,../train_images\Impressionism\Edgar_Degas_517.jpg
+705,Impressionism,Edgar_Degas_521.jpg,../train_images\Impressionism\Edgar_Degas_521.jpg
+706,Impressionism,Edgar_Degas_526.jpg,../train_images\Impressionism\Edgar_Degas_526.jpg
+707,Impressionism,Edgar_Degas_527.jpg,../train_images\Impressionism\Edgar_Degas_527.jpg
+708,Impressionism,Edgar_Degas_528.jpg,../train_images\Impressionism\Edgar_Degas_528.jpg
+709,Impressionism,Edgar_Degas_529.jpg,../train_images\Impressionism\Edgar_Degas_529.jpg
+710,Impressionism,Edgar_Degas_530.jpg,../train_images\Impressionism\Edgar_Degas_530.jpg
+711,Impressionism,Edgar_Degas_531.jpg,../train_images\Impressionism\Edgar_Degas_531.jpg
+712,Impressionism,Edgar_Degas_532.jpg,../train_images\Impressionism\Edgar_Degas_532.jpg
+713,Impressionism,Edgar_Degas_538.jpg,../train_images\Impressionism\Edgar_Degas_538.jpg
+714,Impressionism,Edgar_Degas_543.jpg,../train_images\Impressionism\Edgar_Degas_543.jpg
+715,Impressionism,Edgar_Degas_547.jpg,../train_images\Impressionism\Edgar_Degas_547.jpg
+716,Impressionism,Edgar_Degas_551.jpg,../train_images\Impressionism\Edgar_Degas_551.jpg
+717,Impressionism,Edgar_Degas_552.jpg,../train_images\Impressionism\Edgar_Degas_552.jpg
+718,Impressionism,Edgar_Degas_554.jpg,../train_images\Impressionism\Edgar_Degas_554.jpg
+719,Impressionism,Edgar_Degas_557.jpg,../train_images\Impressionism\Edgar_Degas_557.jpg
+720,Impressionism,Edgar_Degas_56.jpg,../train_images\Impressionism\Edgar_Degas_56.jpg
+721,Impressionism,Edgar_Degas_563.jpg,../train_images\Impressionism\Edgar_Degas_563.jpg
+722,Impressionism,Edgar_Degas_567.jpg,../train_images\Impressionism\Edgar_Degas_567.jpg
+723,Impressionism,Edgar_Degas_570.jpg,../train_images\Impressionism\Edgar_Degas_570.jpg
+724,Impressionism,Edgar_Degas_572.jpg,../train_images\Impressionism\Edgar_Degas_572.jpg
+725,Impressionism,Edgar_Degas_574.jpg,../train_images\Impressionism\Edgar_Degas_574.jpg
+726,Impressionism,Edgar_Degas_576.jpg,../train_images\Impressionism\Edgar_Degas_576.jpg
+727,Impressionism,Edgar_Degas_577.jpg,../train_images\Impressionism\Edgar_Degas_577.jpg
+728,Impressionism,Edgar_Degas_578.jpg,../train_images\Impressionism\Edgar_Degas_578.jpg
+729,Impressionism,Edgar_Degas_58.jpg,../train_images\Impressionism\Edgar_Degas_58.jpg
+730,Impressionism,Edgar_Degas_580.jpg,../train_images\Impressionism\Edgar_Degas_580.jpg
+731,Impressionism,Edgar_Degas_581.jpg,../train_images\Impressionism\Edgar_Degas_581.jpg
+732,Impressionism,Edgar_Degas_586.jpg,../train_images\Impressionism\Edgar_Degas_586.jpg
+733,Impressionism,Edgar_Degas_587.jpg,../train_images\Impressionism\Edgar_Degas_587.jpg
+734,Impressionism,Edgar_Degas_589.jpg,../train_images\Impressionism\Edgar_Degas_589.jpg
+735,Impressionism,Edgar_Degas_590.jpg,../train_images\Impressionism\Edgar_Degas_590.jpg
+736,Impressionism,Edgar_Degas_594.jpg,../train_images\Impressionism\Edgar_Degas_594.jpg
+737,Impressionism,Edgar_Degas_595.jpg,../train_images\Impressionism\Edgar_Degas_595.jpg
+738,Impressionism,Edgar_Degas_597.jpg,../train_images\Impressionism\Edgar_Degas_597.jpg
+739,Impressionism,Edgar_Degas_6.jpg,../train_images\Impressionism\Edgar_Degas_6.jpg
+740,Impressionism,Edgar_Degas_600.jpg,../train_images\Impressionism\Edgar_Degas_600.jpg
+741,Impressionism,Edgar_Degas_603.jpg,../train_images\Impressionism\Edgar_Degas_603.jpg
+742,Impressionism,Edgar_Degas_604.jpg,../train_images\Impressionism\Edgar_Degas_604.jpg
+743,Impressionism,Edgar_Degas_606.jpg,../train_images\Impressionism\Edgar_Degas_606.jpg
+744,Impressionism,Edgar_Degas_607.jpg,../train_images\Impressionism\Edgar_Degas_607.jpg
+745,Impressionism,Edgar_Degas_610.jpg,../train_images\Impressionism\Edgar_Degas_610.jpg
+746,Impressionism,Edgar_Degas_614.jpg,../train_images\Impressionism\Edgar_Degas_614.jpg
+747,Impressionism,Edgar_Degas_615.jpg,../train_images\Impressionism\Edgar_Degas_615.jpg
+748,Impressionism,Edgar_Degas_616.jpg,../train_images\Impressionism\Edgar_Degas_616.jpg
+749,Impressionism,Edgar_Degas_617.jpg,../train_images\Impressionism\Edgar_Degas_617.jpg
+750,Impressionism,Edgar_Degas_619.jpg,../train_images\Impressionism\Edgar_Degas_619.jpg
+751,Impressionism,Edgar_Degas_62.jpg,../train_images\Impressionism\Edgar_Degas_62.jpg
+752,Impressionism,Edgar_Degas_620.jpg,../train_images\Impressionism\Edgar_Degas_620.jpg
+753,Impressionism,Edgar_Degas_621.jpg,../train_images\Impressionism\Edgar_Degas_621.jpg
+754,Impressionism,Edgar_Degas_626.jpg,../train_images\Impressionism\Edgar_Degas_626.jpg
+755,Impressionism,Edgar_Degas_627.jpg,../train_images\Impressionism\Edgar_Degas_627.jpg
+756,Impressionism,Edgar_Degas_629.jpg,../train_images\Impressionism\Edgar_Degas_629.jpg
+757,Impressionism,Edgar_Degas_631.jpg,../train_images\Impressionism\Edgar_Degas_631.jpg
+758,Impressionism,Edgar_Degas_633.jpg,../train_images\Impressionism\Edgar_Degas_633.jpg
+759,Impressionism,Edgar_Degas_634.jpg,../train_images\Impressionism\Edgar_Degas_634.jpg
+760,Impressionism,Edgar_Degas_635.jpg,../train_images\Impressionism\Edgar_Degas_635.jpg
+761,Impressionism,Edgar_Degas_637.jpg,../train_images\Impressionism\Edgar_Degas_637.jpg
+762,Impressionism,Edgar_Degas_639.jpg,../train_images\Impressionism\Edgar_Degas_639.jpg
+763,Impressionism,Edgar_Degas_642.jpg,../train_images\Impressionism\Edgar_Degas_642.jpg
+764,Impressionism,Edgar_Degas_643.jpg,../train_images\Impressionism\Edgar_Degas_643.jpg
+765,Impressionism,Edgar_Degas_644.jpg,../train_images\Impressionism\Edgar_Degas_644.jpg
+766,Impressionism,Edgar_Degas_649.jpg,../train_images\Impressionism\Edgar_Degas_649.jpg
+767,Impressionism,Edgar_Degas_650.jpg,../train_images\Impressionism\Edgar_Degas_650.jpg
+768,Impressionism,Edgar_Degas_651.jpg,../train_images\Impressionism\Edgar_Degas_651.jpg
+769,Impressionism,Edgar_Degas_656.jpg,../train_images\Impressionism\Edgar_Degas_656.jpg
+770,Impressionism,Edgar_Degas_662.jpg,../train_images\Impressionism\Edgar_Degas_662.jpg
+771,Impressionism,Edgar_Degas_666.jpg,../train_images\Impressionism\Edgar_Degas_666.jpg
+772,Impressionism,Edgar_Degas_667.jpg,../train_images\Impressionism\Edgar_Degas_667.jpg
+773,Impressionism,Edgar_Degas_668.jpg,../train_images\Impressionism\Edgar_Degas_668.jpg
+774,Impressionism,Edgar_Degas_67.jpg,../train_images\Impressionism\Edgar_Degas_67.jpg
+775,Impressionism,Edgar_Degas_672.jpg,../train_images\Impressionism\Edgar_Degas_672.jpg
+776,Impressionism,Edgar_Degas_673.jpg,../train_images\Impressionism\Edgar_Degas_673.jpg
+777,Impressionism,Edgar_Degas_674.jpg,../train_images\Impressionism\Edgar_Degas_674.jpg
+778,Impressionism,Edgar_Degas_675.jpg,../train_images\Impressionism\Edgar_Degas_675.jpg
+779,Impressionism,Edgar_Degas_678.jpg,../train_images\Impressionism\Edgar_Degas_678.jpg
+780,Impressionism,Edgar_Degas_68.jpg,../train_images\Impressionism\Edgar_Degas_68.jpg
+781,Impressionism,Edgar_Degas_682.jpg,../train_images\Impressionism\Edgar_Degas_682.jpg
+782,Impressionism,Edgar_Degas_684.jpg,../train_images\Impressionism\Edgar_Degas_684.jpg
+783,Impressionism,Edgar_Degas_685.jpg,../train_images\Impressionism\Edgar_Degas_685.jpg
+784,Impressionism,Edgar_Degas_686.jpg,../train_images\Impressionism\Edgar_Degas_686.jpg
+785,Impressionism,Edgar_Degas_689.jpg,../train_images\Impressionism\Edgar_Degas_689.jpg
+786,Impressionism,Edgar_Degas_69.jpg,../train_images\Impressionism\Edgar_Degas_69.jpg
+787,Impressionism,Edgar_Degas_691.jpg,../train_images\Impressionism\Edgar_Degas_691.jpg
+788,Impressionism,Edgar_Degas_698.jpg,../train_images\Impressionism\Edgar_Degas_698.jpg
+789,Impressionism,Edgar_Degas_70.jpg,../train_images\Impressionism\Edgar_Degas_70.jpg
+790,Impressionism,Edgar_Degas_701.jpg,../train_images\Impressionism\Edgar_Degas_701.jpg
+791,Impressionism,Edgar_Degas_72.jpg,../train_images\Impressionism\Edgar_Degas_72.jpg
+792,Impressionism,Edgar_Degas_73.jpg,../train_images\Impressionism\Edgar_Degas_73.jpg
+793,Impressionism,Edgar_Degas_75.jpg,../train_images\Impressionism\Edgar_Degas_75.jpg
+794,Impressionism,Edgar_Degas_76.jpg,../train_images\Impressionism\Edgar_Degas_76.jpg
+795,Impressionism,Edgar_Degas_78.jpg,../train_images\Impressionism\Edgar_Degas_78.jpg
+796,Impressionism,Edgar_Degas_81.jpg,../train_images\Impressionism\Edgar_Degas_81.jpg
+797,Impressionism,Edgar_Degas_85.jpg,../train_images\Impressionism\Edgar_Degas_85.jpg
+798,Impressionism,Edgar_Degas_86.jpg,../train_images\Impressionism\Edgar_Degas_86.jpg
+799,Impressionism,Edgar_Degas_94.jpg,../train_images\Impressionism\Edgar_Degas_94.jpg
+800,Impressionism,Edgar_Degas_96.jpg,../train_images\Impressionism\Edgar_Degas_96.jpg
+801,Impressionism,Edgar_Degas_97.jpg,../train_images\Impressionism\Edgar_Degas_97.jpg
+802,Impressionism,Edgar_Degas_98.jpg,../train_images\Impressionism\Edgar_Degas_98.jpg
+803,Impressionism,Pierre-Auguste_Renoir_10.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_10.jpg
+804,Impressionism,Pierre-Auguste_Renoir_101.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_101.jpg
+805,Impressionism,Pierre-Auguste_Renoir_102.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_102.jpg
+806,Impressionism,Pierre-Auguste_Renoir_104.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_104.jpg
+807,Impressionism,Pierre-Auguste_Renoir_105.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_105.jpg
+808,Impressionism,Pierre-Auguste_Renoir_108.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_108.jpg
+809,Impressionism,Pierre-Auguste_Renoir_110.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_110.jpg
+810,Impressionism,Pierre-Auguste_Renoir_111.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_111.jpg
+811,Impressionism,Pierre-Auguste_Renoir_113.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_113.jpg
+812,Impressionism,Pierre-Auguste_Renoir_114.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_114.jpg
+813,Impressionism,Pierre-Auguste_Renoir_115.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_115.jpg
+814,Impressionism,Pierre-Auguste_Renoir_117.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_117.jpg
+815,Impressionism,Pierre-Auguste_Renoir_119.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_119.jpg
+816,Impressionism,Pierre-Auguste_Renoir_121.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_121.jpg
+817,Impressionism,Pierre-Auguste_Renoir_122.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_122.jpg
+818,Impressionism,Pierre-Auguste_Renoir_123.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_123.jpg
+819,Impressionism,Pierre-Auguste_Renoir_125.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_125.jpg
+820,Impressionism,Pierre-Auguste_Renoir_129.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_129.jpg
+821,Impressionism,Pierre-Auguste_Renoir_130.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_130.jpg
+822,Impressionism,Pierre-Auguste_Renoir_133.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_133.jpg
+823,Impressionism,Pierre-Auguste_Renoir_134.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_134.jpg
+824,Impressionism,Pierre-Auguste_Renoir_135.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_135.jpg
+825,Impressionism,Pierre-Auguste_Renoir_136.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_136.jpg
+826,Impressionism,Pierre-Auguste_Renoir_138.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_138.jpg
+827,Impressionism,Pierre-Auguste_Renoir_14.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_14.jpg
+828,Impressionism,Pierre-Auguste_Renoir_140.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_140.jpg
+829,Impressionism,Pierre-Auguste_Renoir_141.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_141.jpg
+830,Impressionism,Pierre-Auguste_Renoir_142.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_142.jpg
+831,Impressionism,Pierre-Auguste_Renoir_143.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_143.jpg
+832,Impressionism,Pierre-Auguste_Renoir_146.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_146.jpg
+833,Impressionism,Pierre-Auguste_Renoir_147.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_147.jpg
+834,Impressionism,Pierre-Auguste_Renoir_149.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_149.jpg
+835,Impressionism,Pierre-Auguste_Renoir_150.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_150.jpg
+836,Impressionism,Pierre-Auguste_Renoir_151.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_151.jpg
+837,Impressionism,Pierre-Auguste_Renoir_152.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_152.jpg
+838,Impressionism,Pierre-Auguste_Renoir_154.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_154.jpg
+839,Impressionism,Pierre-Auguste_Renoir_156.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_156.jpg
+840,Impressionism,Pierre-Auguste_Renoir_158.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_158.jpg
+841,Impressionism,Pierre-Auguste_Renoir_159.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_159.jpg
+842,Impressionism,Pierre-Auguste_Renoir_160.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_160.jpg
+843,Impressionism,Pierre-Auguste_Renoir_163.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_163.jpg
+844,Impressionism,Pierre-Auguste_Renoir_164.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_164.jpg
+845,Impressionism,Pierre-Auguste_Renoir_171.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_171.jpg
+846,Impressionism,Pierre-Auguste_Renoir_172.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_172.jpg
+847,Impressionism,Pierre-Auguste_Renoir_174.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_174.jpg
+848,Impressionism,Pierre-Auguste_Renoir_176.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_176.jpg
+849,Impressionism,Pierre-Auguste_Renoir_177.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_177.jpg
+850,Impressionism,Pierre-Auguste_Renoir_180.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_180.jpg
+851,Impressionism,Pierre-Auguste_Renoir_181.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_181.jpg
+852,Impressionism,Pierre-Auguste_Renoir_182.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_182.jpg
+853,Impressionism,Pierre-Auguste_Renoir_183.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_183.jpg
+854,Impressionism,Pierre-Auguste_Renoir_19.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_19.jpg
+855,Impressionism,Pierre-Auguste_Renoir_190.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_190.jpg
+856,Impressionism,Pierre-Auguste_Renoir_191.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_191.jpg
+857,Impressionism,Pierre-Auguste_Renoir_192.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_192.jpg
+858,Impressionism,Pierre-Auguste_Renoir_193.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_193.jpg
+859,Impressionism,Pierre-Auguste_Renoir_195.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_195.jpg
+860,Impressionism,Pierre-Auguste_Renoir_197.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_197.jpg
+861,Impressionism,Pierre-Auguste_Renoir_198.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_198.jpg
+862,Impressionism,Pierre-Auguste_Renoir_199.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_199.jpg
+863,Impressionism,Pierre-Auguste_Renoir_20.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_20.jpg
+864,Impressionism,Pierre-Auguste_Renoir_203.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_203.jpg
+865,Impressionism,Pierre-Auguste_Renoir_208.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_208.jpg
+866,Impressionism,Pierre-Auguste_Renoir_209.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_209.jpg
+867,Impressionism,Pierre-Auguste_Renoir_21.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_21.jpg
+868,Impressionism,Pierre-Auguste_Renoir_215.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_215.jpg
+869,Impressionism,Pierre-Auguste_Renoir_216.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_216.jpg
+870,Impressionism,Pierre-Auguste_Renoir_218.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_218.jpg
+871,Impressionism,Pierre-Auguste_Renoir_219.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_219.jpg
+872,Impressionism,Pierre-Auguste_Renoir_220.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_220.jpg
+873,Impressionism,Pierre-Auguste_Renoir_223.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_223.jpg
+874,Impressionism,Pierre-Auguste_Renoir_225.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_225.jpg
+875,Impressionism,Pierre-Auguste_Renoir_227.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_227.jpg
+876,Impressionism,Pierre-Auguste_Renoir_229.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_229.jpg
+877,Impressionism,Pierre-Auguste_Renoir_23.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_23.jpg
+878,Impressionism,Pierre-Auguste_Renoir_230.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_230.jpg
+879,Impressionism,Pierre-Auguste_Renoir_231.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_231.jpg
+880,Impressionism,Pierre-Auguste_Renoir_233.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_233.jpg
+881,Impressionism,Pierre-Auguste_Renoir_234.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_234.jpg
+882,Impressionism,Pierre-Auguste_Renoir_236.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_236.jpg
+883,Impressionism,Pierre-Auguste_Renoir_244.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_244.jpg
+884,Impressionism,Pierre-Auguste_Renoir_25.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_25.jpg
+885,Impressionism,Pierre-Auguste_Renoir_250.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_250.jpg
+886,Impressionism,Pierre-Auguste_Renoir_252.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_252.jpg
+887,Impressionism,Pierre-Auguste_Renoir_256.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_256.jpg
+888,Impressionism,Pierre-Auguste_Renoir_260.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_260.jpg
+889,Impressionism,Pierre-Auguste_Renoir_263.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_263.jpg
+890,Impressionism,Pierre-Auguste_Renoir_266.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_266.jpg
+891,Impressionism,Pierre-Auguste_Renoir_268.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_268.jpg
+892,Impressionism,Pierre-Auguste_Renoir_269.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_269.jpg
+893,Impressionism,Pierre-Auguste_Renoir_270.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_270.jpg
+894,Impressionism,Pierre-Auguste_Renoir_275.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_275.jpg
+895,Impressionism,Pierre-Auguste_Renoir_28.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_28.jpg
+896,Impressionism,Pierre-Auguste_Renoir_281.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_281.jpg
+897,Impressionism,Pierre-Auguste_Renoir_282.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_282.jpg
+898,Impressionism,Pierre-Auguste_Renoir_285.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_285.jpg
+899,Impressionism,Pierre-Auguste_Renoir_287.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_287.jpg
+900,Impressionism,Pierre-Auguste_Renoir_289.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_289.jpg
+901,Impressionism,Pierre-Auguste_Renoir_290.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_290.jpg
+902,Impressionism,Pierre-Auguste_Renoir_292.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_292.jpg
+903,Impressionism,Pierre-Auguste_Renoir_295.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_295.jpg
+904,Impressionism,Pierre-Auguste_Renoir_296.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_296.jpg
+905,Impressionism,Pierre-Auguste_Renoir_299.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_299.jpg
+906,Impressionism,Pierre-Auguste_Renoir_302.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_302.jpg
+907,Impressionism,Pierre-Auguste_Renoir_304.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_304.jpg
+908,Impressionism,Pierre-Auguste_Renoir_305.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_305.jpg
+909,Impressionism,Pierre-Auguste_Renoir_306.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_306.jpg
+910,Impressionism,Pierre-Auguste_Renoir_307.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_307.jpg
+911,Impressionism,Pierre-Auguste_Renoir_308.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_308.jpg
+912,Impressionism,Pierre-Auguste_Renoir_31.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_31.jpg
+913,Impressionism,Pierre-Auguste_Renoir_310.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_310.jpg
+914,Impressionism,Pierre-Auguste_Renoir_311.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_311.jpg
+915,Impressionism,Pierre-Auguste_Renoir_312.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_312.jpg
+916,Impressionism,Pierre-Auguste_Renoir_313.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_313.jpg
+917,Impressionism,Pierre-Auguste_Renoir_314.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_314.jpg
+918,Impressionism,Pierre-Auguste_Renoir_321.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_321.jpg
+919,Impressionism,Pierre-Auguste_Renoir_322.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_322.jpg
+920,Impressionism,Pierre-Auguste_Renoir_323.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_323.jpg
+921,Impressionism,Pierre-Auguste_Renoir_324.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_324.jpg
+922,Impressionism,Pierre-Auguste_Renoir_325.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_325.jpg
+923,Impressionism,Pierre-Auguste_Renoir_33.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_33.jpg
+924,Impressionism,Pierre-Auguste_Renoir_330.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_330.jpg
+925,Impressionism,Pierre-Auguste_Renoir_332.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_332.jpg
+926,Impressionism,Pierre-Auguste_Renoir_335.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_335.jpg
+927,Impressionism,Pierre-Auguste_Renoir_336.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_336.jpg
+928,Impressionism,Pierre-Auguste_Renoir_35.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_35.jpg
+929,Impressionism,Pierre-Auguste_Renoir_38.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_38.jpg
+930,Impressionism,Pierre-Auguste_Renoir_41.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_41.jpg
+931,Impressionism,Pierre-Auguste_Renoir_44.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_44.jpg
+932,Impressionism,Pierre-Auguste_Renoir_45.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_45.jpg
+933,Impressionism,Pierre-Auguste_Renoir_47.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_47.jpg
+934,Impressionism,Pierre-Auguste_Renoir_48.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_48.jpg
+935,Impressionism,Pierre-Auguste_Renoir_5.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_5.jpg
+936,Impressionism,Pierre-Auguste_Renoir_51.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_51.jpg
+937,Impressionism,Pierre-Auguste_Renoir_54.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_54.jpg
+938,Impressionism,Pierre-Auguste_Renoir_55.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_55.jpg
+939,Impressionism,Pierre-Auguste_Renoir_58.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_58.jpg
+940,Impressionism,Pierre-Auguste_Renoir_61.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_61.jpg
+941,Impressionism,Pierre-Auguste_Renoir_62.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_62.jpg
+942,Impressionism,Pierre-Auguste_Renoir_63.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_63.jpg
+943,Impressionism,Pierre-Auguste_Renoir_7.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_7.jpg
+944,Impressionism,Pierre-Auguste_Renoir_71.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_71.jpg
+945,Impressionism,Pierre-Auguste_Renoir_73.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_73.jpg
+946,Impressionism,Pierre-Auguste_Renoir_79.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_79.jpg
+947,Impressionism,Pierre-Auguste_Renoir_8.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_8.jpg
+948,Impressionism,Pierre-Auguste_Renoir_82.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_82.jpg
+949,Impressionism,Pierre-Auguste_Renoir_83.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_83.jpg
+950,Impressionism,Pierre-Auguste_Renoir_86.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_86.jpg
+951,Impressionism,Pierre-Auguste_Renoir_87.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_87.jpg
+952,Impressionism,Pierre-Auguste_Renoir_88.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_88.jpg
+953,Impressionism,Pierre-Auguste_Renoir_90.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_90.jpg
+954,Impressionism,Pierre-Auguste_Renoir_97.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_97.jpg
+955,Impressionism,Pierre-Auguste_Renoir_98.jpg,../train_images\Impressionism\Pierre-Auguste_Renoir_98.jpg
+956,Pop Art,Andy_Warhol_102.jpg,../train_images\Pop Art\Andy_Warhol_102.jpg
+957,Pop Art,Andy_Warhol_104.jpg,../train_images\Pop Art\Andy_Warhol_104.jpg
+958,Pop Art,Andy_Warhol_107.jpg,../train_images\Pop Art\Andy_Warhol_107.jpg
+959,Pop Art,Andy_Warhol_109.jpg,../train_images\Pop Art\Andy_Warhol_109.jpg
+960,Pop Art,Andy_Warhol_11.jpg,../train_images\Pop Art\Andy_Warhol_11.jpg
+961,Pop Art,Andy_Warhol_110.jpg,../train_images\Pop Art\Andy_Warhol_110.jpg
+962,Pop Art,Andy_Warhol_111.jpg,../train_images\Pop Art\Andy_Warhol_111.jpg
+963,Pop Art,Andy_Warhol_112.jpg,../train_images\Pop Art\Andy_Warhol_112.jpg
+964,Pop Art,Andy_Warhol_113.jpg,../train_images\Pop Art\Andy_Warhol_113.jpg
+965,Pop Art,Andy_Warhol_115.jpg,../train_images\Pop Art\Andy_Warhol_115.jpg
+966,Pop Art,Andy_Warhol_121.jpg,../train_images\Pop Art\Andy_Warhol_121.jpg
+967,Pop Art,Andy_Warhol_123.jpg,../train_images\Pop Art\Andy_Warhol_123.jpg
+968,Pop Art,Andy_Warhol_124.jpg,../train_images\Pop Art\Andy_Warhol_124.jpg
+969,Pop Art,Andy_Warhol_126.jpg,../train_images\Pop Art\Andy_Warhol_126.jpg
+970,Pop Art,Andy_Warhol_127.jpg,../train_images\Pop Art\Andy_Warhol_127.jpg
+971,Pop Art,Andy_Warhol_128.jpg,../train_images\Pop Art\Andy_Warhol_128.jpg
+972,Pop Art,Andy_Warhol_13.jpg,../train_images\Pop Art\Andy_Warhol_13.jpg
+973,Pop Art,Andy_Warhol_130.jpg,../train_images\Pop Art\Andy_Warhol_130.jpg
+974,Pop Art,Andy_Warhol_136.jpg,../train_images\Pop Art\Andy_Warhol_136.jpg
+975,Pop Art,Andy_Warhol_140.jpg,../train_images\Pop Art\Andy_Warhol_140.jpg
+976,Pop Art,Andy_Warhol_142.jpg,../train_images\Pop Art\Andy_Warhol_142.jpg
+977,Pop Art,Andy_Warhol_144.jpg,../train_images\Pop Art\Andy_Warhol_144.jpg
+978,Pop Art,Andy_Warhol_152.jpg,../train_images\Pop Art\Andy_Warhol_152.jpg
+979,Pop Art,Andy_Warhol_154.jpg,../train_images\Pop Art\Andy_Warhol_154.jpg
+980,Pop Art,Andy_Warhol_155.jpg,../train_images\Pop Art\Andy_Warhol_155.jpg
+981,Pop Art,Andy_Warhol_157.jpg,../train_images\Pop Art\Andy_Warhol_157.jpg
+982,Pop Art,Andy_Warhol_159.jpg,../train_images\Pop Art\Andy_Warhol_159.jpg
+983,Pop Art,Andy_Warhol_161.jpg,../train_images\Pop Art\Andy_Warhol_161.jpg
+984,Pop Art,Andy_Warhol_164.jpg,../train_images\Pop Art\Andy_Warhol_164.jpg
+985,Pop Art,Andy_Warhol_17.jpg,../train_images\Pop Art\Andy_Warhol_17.jpg
+986,Pop Art,Andy_Warhol_170.jpg,../train_images\Pop Art\Andy_Warhol_170.jpg
+987,Pop Art,Andy_Warhol_171.jpg,../train_images\Pop Art\Andy_Warhol_171.jpg
+988,Pop Art,Andy_Warhol_175.jpg,../train_images\Pop Art\Andy_Warhol_175.jpg
+989,Pop Art,Andy_Warhol_177.jpg,../train_images\Pop Art\Andy_Warhol_177.jpg
+990,Pop Art,Andy_Warhol_179.jpg,../train_images\Pop Art\Andy_Warhol_179.jpg
+991,Pop Art,Andy_Warhol_18.jpg,../train_images\Pop Art\Andy_Warhol_18.jpg
+992,Pop Art,Andy_Warhol_21.jpg,../train_images\Pop Art\Andy_Warhol_21.jpg
+993,Pop Art,Andy_Warhol_23.jpg,../train_images\Pop Art\Andy_Warhol_23.jpg
+994,Pop Art,Andy_Warhol_24.jpg,../train_images\Pop Art\Andy_Warhol_24.jpg
+995,Pop Art,Andy_Warhol_25.jpg,../train_images\Pop Art\Andy_Warhol_25.jpg
+996,Pop Art,Andy_Warhol_26.jpg,../train_images\Pop Art\Andy_Warhol_26.jpg
+997,Pop Art,Andy_Warhol_29.jpg,../train_images\Pop Art\Andy_Warhol_29.jpg
+998,Pop Art,Andy_Warhol_3.jpg,../train_images\Pop Art\Andy_Warhol_3.jpg
+999,Pop Art,Andy_Warhol_31.jpg,../train_images\Pop Art\Andy_Warhol_31.jpg
+1000,Pop Art,Andy_Warhol_33.jpg,../train_images\Pop Art\Andy_Warhol_33.jpg
+1001,Pop Art,Andy_Warhol_35.jpg,../train_images\Pop Art\Andy_Warhol_35.jpg
+1002,Pop Art,Andy_Warhol_38.jpg,../train_images\Pop Art\Andy_Warhol_38.jpg
+1003,Pop Art,Andy_Warhol_4.jpg,../train_images\Pop Art\Andy_Warhol_4.jpg
+1004,Pop Art,Andy_Warhol_40.jpg,../train_images\Pop Art\Andy_Warhol_40.jpg
+1005,Pop Art,Andy_Warhol_41.jpg,../train_images\Pop Art\Andy_Warhol_41.jpg
+1006,Pop Art,Andy_Warhol_42.jpg,../train_images\Pop Art\Andy_Warhol_42.jpg
+1007,Pop Art,Andy_Warhol_43.jpg,../train_images\Pop Art\Andy_Warhol_43.jpg
+1008,Pop Art,Andy_Warhol_45.jpg,../train_images\Pop Art\Andy_Warhol_45.jpg
+1009,Pop Art,Andy_Warhol_48.jpg,../train_images\Pop Art\Andy_Warhol_48.jpg
+1010,Pop Art,Andy_Warhol_54.jpg,../train_images\Pop Art\Andy_Warhol_54.jpg
+1011,Pop Art,Andy_Warhol_55.jpg,../train_images\Pop Art\Andy_Warhol_55.jpg
+1012,Pop Art,Andy_Warhol_56.jpg,../train_images\Pop Art\Andy_Warhol_56.jpg
+1013,Pop Art,Andy_Warhol_57.jpg,../train_images\Pop Art\Andy_Warhol_57.jpg
+1014,Pop Art,Andy_Warhol_58.jpg,../train_images\Pop Art\Andy_Warhol_58.jpg
+1015,Pop Art,Andy_Warhol_6.jpg,../train_images\Pop Art\Andy_Warhol_6.jpg
+1016,Pop Art,Andy_Warhol_60.jpg,../train_images\Pop Art\Andy_Warhol_60.jpg
+1017,Pop Art,Andy_Warhol_61.jpg,../train_images\Pop Art\Andy_Warhol_61.jpg
+1018,Pop Art,Andy_Warhol_62.jpg,../train_images\Pop Art\Andy_Warhol_62.jpg
+1019,Pop Art,Andy_Warhol_65.jpg,../train_images\Pop Art\Andy_Warhol_65.jpg
+1020,Pop Art,Andy_Warhol_67.jpg,../train_images\Pop Art\Andy_Warhol_67.jpg
+1021,Pop Art,Andy_Warhol_68.jpg,../train_images\Pop Art\Andy_Warhol_68.jpg
+1022,Pop Art,Andy_Warhol_74.jpg,../train_images\Pop Art\Andy_Warhol_74.jpg
+1023,Pop Art,Andy_Warhol_75.jpg,../train_images\Pop Art\Andy_Warhol_75.jpg
+1024,Pop Art,Andy_Warhol_78.jpg,../train_images\Pop Art\Andy_Warhol_78.jpg
+1025,Pop Art,Andy_Warhol_79.jpg,../train_images\Pop Art\Andy_Warhol_79.jpg
+1026,Pop Art,Andy_Warhol_8.jpg,../train_images\Pop Art\Andy_Warhol_8.jpg
+1027,Pop Art,Andy_Warhol_80.jpg,../train_images\Pop Art\Andy_Warhol_80.jpg
+1028,Pop Art,Andy_Warhol_81.jpg,../train_images\Pop Art\Andy_Warhol_81.jpg
+1029,Pop Art,Andy_Warhol_83.jpg,../train_images\Pop Art\Andy_Warhol_83.jpg
+1030,Pop Art,Andy_Warhol_84.jpg,../train_images\Pop Art\Andy_Warhol_84.jpg
+1031,Pop Art,Andy_Warhol_85.jpg,../train_images\Pop Art\Andy_Warhol_85.jpg
+1032,Pop Art,Andy_Warhol_88.jpg,../train_images\Pop Art\Andy_Warhol_88.jpg
+1033,Pop Art,Andy_Warhol_89.jpg,../train_images\Pop Art\Andy_Warhol_89.jpg
+1034,Pop Art,Andy_Warhol_9.jpg,../train_images\Pop Art\Andy_Warhol_9.jpg
+1035,Pop Art,Andy_Warhol_91.jpg,../train_images\Pop Art\Andy_Warhol_91.jpg
+1036,Pop Art,Andy_Warhol_94.jpg,../train_images\Pop Art\Andy_Warhol_94.jpg
+1037,Pop Art,Andy_Warhol_98.jpg,../train_images\Pop Art\Andy_Warhol_98.jpg
