@@ -1,7 +1,16 @@
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 
 def pred_results(train_gen, test_gen, pred, csvfile):
+    '''
+    Create a dataframe with true values and predictions
+    :param train_gen: train_generator
+    :param test_gen: test_generator
+    :param pred: predictions values
+    :param csvfile: name of csvfile to import
+    :return: results: a dataframe with true values and predicstions for each image
+    '''
 
     pred_class = np.argmax(pred, axis=1)
 
@@ -14,11 +23,16 @@ def pred_results(train_gen, test_gen, pred, csvfile):
     results = pd.DataFrame({"Filename": filenames,
                             "True_Label": true_labels,
                             "Predictions": predictions})
-    results.to_csv(f'{csvfile}.csv', index=False)
+    results.to_csv(f'../results/{csvfile}.csv', index=False)
     return results
 
 
 def plot_confusion_matrix(cm):
+    '''
+    plots confusion matrix
+    :param cm: confusion matrix data
+    :return: confusion matrix plot
+    '''
     plt.imshow(cm, cmap=plt.cm.Blues)
     plt.xlabel("Predicted labels")
     plt.ylabel("True labels")
