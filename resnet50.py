@@ -1,9 +1,11 @@
 import keras
 from keras.models import Model
-from keras.layers import Add, Dense, Activation, ZeroPadding2D, BatchNormalization, Flatten, Conv2D, AveragePooling2D, MaxPooling2D
+from keras.layers import Add, Dense, Activation, ZeroPadding2D, BatchNormalization, \
+    Flatten, Conv2D, AveragePooling2D, MaxPooling2D
+
 
 def identity_block(x, f, filters, stage, block):
-    '''
+    """
     Identity Block for ResNet
 
     Arguments:
@@ -16,7 +18,7 @@ def identity_block(x, f, filters, stage, block):
     Returns:
     x - output of identity block with shape (samples_new, height_new, width_new, channel_new)
 
-    '''
+    """
 
     # define names
     conv_name = f'res{stage}{block}'
@@ -50,7 +52,7 @@ def identity_block(x, f, filters, stage, block):
 
 
 def convolutional_block(x, f, filters, stage, block, s=2):
-    '''
+    """
     Convolutional Block for ResNet
 
     Arguments:
@@ -63,7 +65,7 @@ def convolutional_block(x, f, filters, stage, block, s=2):
     Returns:
     x - output of identity block with shape (samples_new, height_new, width_new, channel_new)
 
-    '''
+    """
 
     # define names
     conv_name = f'res{stage}{block}'
@@ -101,7 +103,7 @@ def convolutional_block(x, f, filters, stage, block, s=2):
 
 
 def resnet50_model(input_shape, num_classes):
-    '''
+    """
     Implements ResNet50 with the following architecture:
 
     Conv2D -> BatchNormalization -> ReLu -> MaxPool -> Conv2D -> IDBlock*2
@@ -114,7 +116,7 @@ def resnet50_model(input_shape, num_classes):
 
     Returns:
     model - returns a Keras model
-    '''
+    """
 
     # Define the input with shape input_shape
     x_input = keras.Input(shape=input_shape)
@@ -158,7 +160,5 @@ def resnet50_model(input_shape, num_classes):
     x = Dense(num_classes, activation='softmax', name=f'fc{num_classes}')(x)
 
     rn50model = Model(inputs=x_input, outputs=x, name='ResNet50')
-
-    print(x_input, x)
 
     return rn50model
