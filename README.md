@@ -1,4 +1,4 @@
-![art](../images/Impressionism/Pierre-Auguste_Renoir_36.jpg)
+![art](./images/Impressionism/Pierre-Auguste_Renoir_36.jpg)
 
 # ART STYLE CLASSIFICATION IN PAINTINGS WITH DEEP LEARNING
 
@@ -58,7 +58,7 @@ Furthermore, due to the computationally expensive nature of image classification
 * Byzantine Art
 * Abstract Expressionism
 
-![art2](../data/sample_train.jpg)
+![art2](./data/sample_train.jpg)
 
 This leaves us with a total of 2,306 images to test on over the 6 chosen classes.
 
@@ -69,11 +69,11 @@ We will be using ~60% or 1351 images to train the model in the chosen classes, w
 
 After visualizing the data in Figure 2, it’s very clear that the data is highly imbalanced. Impressionism has the most images while abstract expressionism has the least amount of images. The biggest concern in a heavily skewed distribution is that the model may predict each image as an Impressionist painting since it is the most common painting style that the model is learning from.
 
-![art3](../data/dist.jpg)
+![art3](./data/dist.jpg)
 
 To see if there are any patterns within each class, I looked at the pixel intensity of a random sample of images from the training dataset. Based on the results, some images are overexposed or underexposed and should be normalized during the pre-processing stage to better train the model.
 
-![art4](../data/pixel_intensity.jpg)
+![art4](./data/pixel_intensity.jpg)
 
 
 ## METHODOLOGY
@@ -107,7 +107,7 @@ Again, to overcome the limitation of having a small dataset, we will be using we
 
 ## RESULTS
 
-![metric1](../results/images/train_val_accuracy.jpg)
+![metric1](./img_metrics/train_val_accuracy.jpg)
 
 Based on the results for each model, it's very clear that the pre-trained RESNET50 performs the best, followed by the simple CNN model with a validation accuracy of ~87% and ~83% at 25 epochs. 
 
@@ -119,13 +119,13 @@ Having a very small dataset made it very difficult for the base model to continu
 
 ## Pre-trained ResNet50 on ImageNet
 
-![metric2](../results/images/transfer_confusion_matrix.jpg)
+![metric2](./img_metrics/transfer_confusion_matrix.jpg)
 
 Based on the above confusion matrix from our pre-trained model, the individual class that performed the best was Impressionism followed by Cubism. This makes sense due to the large distribution of images that the model can learn from. 
 
 As expected, Abstract Expressionism was not predicted at all due to having such a small quantity of images to learn from. The true labels were misclassified as Cubism and Impressionism. Given the limited data, this intuitively makes sense since Impressionism has a very open composition that appears abstract up close and Cubism is a specific, yet abstract form of art. It would be interesting to see if increasing the dataset will continue to misclassify Abstract Expessionist paintings or if the model will learn to distinguish minute differences between art styles.
 
-![metric3](../results/images/transfer_classification_heatmap.jpg)
+![metric3](./img_metrics/transfer_classification_heatmap.jpg)
 
 Due to such an uneven class distribution, we will be looking at both precision and recall and the f1-score. Again, Cubism and Impressionism have the highest metrics across the board, potentially due to the fact that they make up majority of the dataset. Surprisingly, despite its small quantity, Pop Art has a higher precision, recall, and f1-score than Impressionism. Perhaps this is due to the uniqueness of the art style. This suggests that the model seems to detect significantly different styles well and struggles with styles closer to one another much like a person would probably do.
 
