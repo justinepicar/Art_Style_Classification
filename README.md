@@ -1,4 +1,4 @@
-![art](./images/Impressionism/Pierre-Auguste_Renoir_36.jpg)
+![art](./images/Impressionism/Pierre-Auguste_Renoir_36.JPG)
 
 # ART STYLE CLASSIFICATION IN PAINTINGS WITH DEEP LEARNING
 
