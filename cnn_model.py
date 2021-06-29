@@ -16,7 +16,7 @@ def cnn_model(input_shape, num_classes):
     """
 
     # first stage: initialize sequential model and define input with input_shape
-    model = Sequential()
+    model = Sequential(name='CNN Model')
     model.add(Conv2D(32, kernel_size=3, input_shape=input_shape, padding='same', name='conv1'))
     model.add(Activation('relu'))
     model.add(MaxPooling2D(pool_size=2))

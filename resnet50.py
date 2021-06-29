@@ -1,7 +1,7 @@
 import keras
 from keras.models import Model
-from keras.layers import Add, Dense, Activation, ZeroPadding2D, BatchNormalization, \
-    Flatten, Conv2D, AveragePooling2D, MaxPooling2D
+from keras.layers import Add, Dense, Activation, ZeroPadding2D, \
+    BatchNormalization, Flatten, Conv2D, AveragePooling2D, MaxPooling2D
 
 
 def identity_block(x, f, filters, stage, block):
@@ -157,7 +157,10 @@ def resnet50_model(input_shape, num_classes):
     # output layer
     x = AveragePooling2D(2, name='avg_pool', padding='same')(x)
     x = Flatten()(x)
-    x = Dense(num_classes, activation='softmax', name=f'fc{num_classes}')(x)
+    if num_classes > 2:
+        x = Dense(num_classes, activation='softmax', name=f'fc_multi{num_classes}')(x)
+    else:
+        x = Dense(num_classes, activation='sigmoid', name=f'fc_binary{num_classes}')(x)
 
     rn50model = Model(inputs=x_input, outputs=x, name='ResNet50')
 

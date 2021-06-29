@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.metrics import classification_report, confusion_matrix
 
 
 def pred_results(train_gen, test_gen, pred, csv_file):
@@ -28,17 +30,68 @@ def pred_results(train_gen, test_gen, pred, csv_file):
     return results
 
 
-def plot_confusion_matrix(cm):
+def plot_confusion_matrix(cm, labels):
     """
-    plots confusion matrix
+    Displays confusion matrix plot
     :param cm: confusion matrix data
-    :return: confusion matrix plot
+    :param labels: class labels
+    :return: None
     """
-    plt.imshow(cm)
+    df_cm = pd.DataFrame(cm / np.sum(cm), index=[i for i in labels],
+                         columns=[i for i in labels])
+
+    plt.figure(figsize=(10, 5))
+    sns.heatmap(df_cm, annot=True, cmap='Blues')
     plt.xlabel("Predicted labels")
     plt.ylabel("True labels")
-    plt.xticks([], [])
-    plt.yticks([], [])
-    plt.title('Confusion matrix ')
-    plt.colorbar()
-    plt.show()
+    plt.title('Confusion matrix')
+
+    return None
+
+
+def plot_clf(clf):
+    """
+    Displays classification report heatmap
+    :param clf: classification report data
+    :return: None
+    """
+
+    plt.figure(figsize=(10, 5))
+    sns.heatmap(clf.iloc[:, :-1], annot=True)
+    plt.title('Classification Report')
+
+    return None
+
+
+def metric_eval(test_generator, pred, results, labels):
+    """
+    displays a confusion matrix and classification heatmap
+    and returns a classification report dataframe
+    :param test_generator: image generator from test set
+    :param pred: predicted labels dummy variables
+    :param results: dataframe of true and predicted values
+    :param labels: class labels
+    :return: classification report dataframe
+    """
+    cm = confusion_matrix(list(results.True_Label), list(results.Predictions), labels=labels)
+    plot_confusion_matrix(cm, labels)
+    cf = cf_report(test_generator, pred, labels)
+    plot_clf(cf)
+
+    return cf
+
+
+def cf_report(test_generator, pred, labels):
+    """
+    creates classification report data frame
+    :param test_generator: image generator from test set
+    :param pred: predicted labels dummy variables
+    :param labels: class labels
+    :return: classification report dataframe
+    """
+    predicted_classes = np.argmax(pred, axis=1)
+    cf = pd.DataFrame(classification_report(test_generator.classes,
+                                            predicted_classes,
+                                            target_names=labels,
+                                            output_dict=True)).T
+    return cf
