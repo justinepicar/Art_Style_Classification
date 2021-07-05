@@ -1,4 +1,4 @@
-![art](./data/Pierre-Auguste_Renoir_3.jpg)
+![art](./graphs/Pierre-Auguste_Renoir_3.jpg)
 
 # ART STYLE CLASSIFICATION IN PAINTINGS WITH DEEP LEARNING
 
@@ -10,6 +10,10 @@ To train the models, we will be using Icaros’ Best Artworks of All Time Datase
 
 * [BEST ARTWORKS OF ALL TIME](https://www.kaggle.com/ikarus777/best-artworks-of-all-time)
 
+We will be using the following packages:
+* __keras__ for training
+* __skimage__ for eda visualization
+* __graphviz__ and __pydot__ for neural network visualization
 
 ## DATA CLEANING/DATA WRANGLING
 
@@ -58,7 +62,7 @@ Furthermore, due to the computationally expensive nature of image classification
 * Byzantine Art
 * Abstract Expressionism
 
-![art2](./data/sample_train.jpg)
+![art2](./graphs/sample_train.jpg)
 
 This leaves us with a total of 2,306 images to test on over the 6 chosen classes.
 
@@ -69,19 +73,20 @@ We will be using ~60% or 1351 images to train the model in the chosen classes, w
 
 After visualizing the data in Figure 2, it’s very clear that the data is highly imbalanced. Impressionism has the most images while abstract expressionism has the least amount of images. The biggest concern in a heavily skewed distribution is that the model may predict each image as an Impressionist painting since it is the most common painting style that the model is learning from.
 
-![art3](./data/dist.jpg)
+![art3](./graphs/dist.jpg)
 
 To see if there are any patterns within each class, I looked at the pixel intensity of a random sample of images from the training dataset. Based on the results, some images are overexposed or underexposed and should be normalized during the pre-processing stage to better train the model.
 
-![art4](./data/pixel_intensity.jpg)
+![art4](./graphs/pixel_intensity.jpg)
 
 
 ## METHODOLOGY
 
 The biggest challenges on this dataset will be its quantity of images as well as its highly skewed distribution across art styles. Thus, I will be evaluating the performance of two artificial neural networks-a Convolutional Neural Network (CNN) and a Residual Network with 50 layers (RESNET50) using the following methodologies in Keras:
 
-1. __Data augmentation and pre-processing:__ Because the dataset is small to begin with, I use ImageDataGenerator from Keras to augment the data by applying distortions to a sample of the images and saving them for classes lacking data such as “Abstract Expressionism”. This increases the robustness of the models and ability to generalize to unknown images. I randomly distort 75% of the images in each class sample to avoid overfitting and learning too many of the same images to still preserve the distribution of the data.
+1. __Data augmentation and pre-processing:__ Because the dataset is small to begin with, I use ImageDataGenerator from Keras to augment a sample of the data by applying distortions and saving them for classes lacking data such as “Abstract Expressionism”. This increases the robustness of the models and ability to generalize to unknown images. I randomly distort 75% of the images in each class sample to avoid overfitting and learning too many of the same images to still preserve the distribution of the data.
 
+![art5](./graphs/sample_augmented.jpg)
 
 2. __Weight Initialization:__ When fitting the model, I use class_weights from sklearn.utils to balance the distribution between art styles in the training dataset on both the CNN model and the RESNET50 model.
 
@@ -93,6 +98,7 @@ The biggest challenges on this dataset will be its quantity of images as well as
 
 1. __Convolutional Neural Network:__ Due to the small size of our data set, we create a similar baseline convolutional neural network and reference [Francis Chollet’s](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) baseline convolutional model for classifying images in small datasets. The input shape of the structure is 200 x 200 x 3. Each stage of the structure is made of a convolutional layer followed by a max pooling layer for a total of three stages. The convolutional layers have filters that respectively generate 32, 64,128, and 128 feature maps. At the output stage, we flatten and dropout approximately 40% of the parameters to prevent overfitting after one fully connected layer. The last dense layer equals the number of classes for output and softmax activation in place of sigmoid for multi-classification.
 
+![cnn](./graphs/cnn_model.jpg)
 
 2. __Residual Neural Network model:__ I also built a ResNet50 model from scratch with the help of [Priya Dwivedi's Guide](https://towardsdatascience.com/understanding-and-coding-a-resnet-in-keras-446d7ff84d33). The Residual Network has an input dimension of 200 × 200 × 3. The architecture contains two different blocks-an identity block and a convolutional block-that uses a ‘shortcut connection’ at each block. 
     * The identity block has a convolutional 2D layer at each stage followed by a batch normalization process for a total of three stages. The input value saved at the beginning of the first stage is added back to the main path in the last stage and passed through a Relu activation. 
