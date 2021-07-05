@@ -46,7 +46,7 @@ def plot_confusion_matrix(cm, labels, title):
     sns.heatmap(df_cm, annot=True, cmap='Blues', fmt='')
     plt.xlabel("Predicted labels")
     plt.ylabel("True labels")
-    plt.title('Confusion matrix')
+    plt.title(f'{title} Confusion matrix')
     plt.savefig(f'../img_metrics/{title}_confusion_matrix.jpg', bbox_inches='tight')
 
     return None
@@ -62,7 +62,7 @@ def plot_clf(clf, title):
 
     plt.figure(figsize=(10, 5))
     sns.heatmap(clf.iloc[:, :-1], annot=True)
-    plt.title('Classification Report')
+    plt.title(f'{title} Classification Report')
     plt.savefig(f'../img_metrics/{title}_classification_heatmap.jpg', bbox_inches='tight')
 
     return None

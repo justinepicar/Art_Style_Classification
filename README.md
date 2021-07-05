@@ -141,27 +141,32 @@ This is especially noted for the weighted models. There aren't enough images in 
 
 Having a very small dataset made it very difficult for the base model to continue to learn so fine tuning on top of a RESNET50 model and using pre-trained weights from the ImageNet dataset helped improve the accuracy.
 
-### BEST MODEL: PRE-TRAINED RESNET50 ON IMAGENET
-___
-![metric2](./img_metrics/transfer_confusion_matrix.jpg)
+![metric4](./img_metrics/accuracy_df.jpg)
 
-Based on the above confusion matrix from our pre-trained model, the individual class that performed the best was Impressionism followed by Cubism. This makes sense due to the large distribution of images that the model can learn from. 
+Here we can see how well each individual class is predicted. While, Abstract Expressionism isn't correctly predicted at all, the pre-trained model still predicts more than 2/3rds of the classes above 70%.
+
+### BEST MODEL: PRE-TRAINED RESNET50 ON IMAGENET v. CNN BASE MODEL
+___
+![metric2](./img_metrics/metric_comparison1.jpg)
+
+Based on the above confusion matrix from our pre-trained model, the individual class that performed the best was Pop Art followed by Impressionism for both of the best models.
 
 ![comparison1](./graphs/comparison1.jpg)
 
-As expected, Abstract Expressionism was not predicted at all due to having such a small quantity of images to learn from. The true labels were misclassified as Cubism and Impressionism. Given the limited data, this intuitively makes sense since Impressionism has a very open composition that appears abstract up close and Cubism is a specific, yet abstract form of art. It would be interesting to see if increasing the dataset will continue to misclassify Abstract Expessionist paintings or if the model will learn to distinguish minute differences between art styles.
+As expected, Abstract Expressionism had very low predictions due to having such a small quantity of images to learn from in our pre-trained confusion matrix. The true labels were misclassified as Cubism and Impressionism. Given the limited data, this intuitively makes sense since Impressionism has a very open composition that appears abstract up close and Cubism is a specific, yet abstract form of art. It would be interesting to see if increasing the dataset will continue to misclassify Abstract Expessionist paintings or if the model will learn to distinguish minute differences between art styles.
 
 ![comparison2](./graphs/comparison2.jpg)
 
 Again, we see another example of an Impressionist painting appearing abstract and 'messy' up close, similar to the Abstract Expressionism painting.
 
 
-![metric3](./img_metrics/transfer_classification_heatmap.jpg)
+![metric3](./img_metrics/metric_comparison2.jpg)
 
-Due to such an uneven class distribution, we will be looking at both precision and recall and the f1-score. Again, Cubism and Impressionism have the highest metrics across the board, potentially due to the fact that they make up majority of the dataset. Surprisingly, despite its small quantity, Pop Art has a higher precision, recall, and f1-score than Impressionism. Perhaps this is due to the unique nature of the art style, which repeats various images in different colors and allows the data to train on repeating patterns despite the pixel intensity of each image. This suggests that the model seems to detect styles with significant repeating patterns and struggles with styles closer to one another much like a person would probably do.
+Due to such an uneven class distribution, we will be looking at both precision and recall and the f1-score. Cubism and Impressionism have the highest metrics across the board, potentially due to the fact that they make up majority of the dataset. Surprisingly, despite its small quantity, Pop Art has a higher precision, recall, and f1-score than Impressionism. Perhaps this is due to the unique nature of the art style, which repeats various images in different colors and allows the data to train on repeating patterns despite the pixel intensity of each image. This suggests that the model seems to detect styles with significant repeating patterns and struggles with styles closer to one another much like a person would probably do.
 
 ![comparison3](./graphs/comparison3.jpg)
 
+In conclusion, based on all our results and metrics, the best model for classifying paintings is the Pre-Trained ResNet model. 
 
 ## CONCLUSION AND LESSONS LEARNED
 ___
