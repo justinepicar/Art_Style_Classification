@@ -27,43 +27,48 @@ def pred_results(train_gen, test_gen, pred, csv_file):
                             "True_Label": true_labels,
                             "Predictions": predictions})
     results.to_csv(f'../results/{csv_file}.csv', index=False)
+
     return results
 
 
-def plot_confusion_matrix(cm, labels):
+def plot_confusion_matrix(cm, labels, title):
     """
     Displays confusion matrix plot
     :param cm: confusion matrix data
     :param labels: class labels
+    :param title: label for saving jpg file
     :return: None
     """
-    df_cm = pd.DataFrame(cm / np.sum(cm), index=[i for i in labels],
+    df_cm = pd.DataFrame(cm, index=[i for i in labels],
                          columns=[i for i in labels])
 
     plt.figure(figsize=(10, 5))
-    sns.heatmap(df_cm, annot=True, cmap='Blues')
+    sns.heatmap(df_cm, annot=True, cmap='Blues', fmt='')
     plt.xlabel("Predicted labels")
     plt.ylabel("True labels")
     plt.title('Confusion matrix')
+    plt.savefig(f'../img_metrics/{title}_confusion_matrix.jpg', bbox_inches='tight')
 
     return None
 
 
-def plot_clf(clf):
+def plot_clf(clf, title):
     """
     Displays classification report heatmap
     :param clf: classification report data
+    :param title: label for saving jpg file
     :return: None
     """
 
     plt.figure(figsize=(10, 5))
     sns.heatmap(clf.iloc[:, :-1], annot=True)
     plt.title('Classification Report')
+    plt.savefig(f'../img_metrics/{title}_classification_heatmap.jpg', bbox_inches='tight')
 
     return None
 
 
-def metric_eval(test_generator, pred, results, labels):
+def metric_eval(test_generator, pred, results, labels, title):
     """
     displays a confusion matrix and classification heatmap
     and returns a classification report dataframe
@@ -71,14 +76,18 @@ def metric_eval(test_generator, pred, results, labels):
     :param pred: predicted labels dummy variables
     :param results: dataframe of true and predicted values
     :param labels: class labels
+    :param title: label for saving jpg file
     :return: classification report dataframe
     """
     cm = confusion_matrix(list(results.True_Label), list(results.Predictions), labels=labels)
-    plot_confusion_matrix(cm, labels)
+    plot_confusion_matrix(cm, labels, title)
     cf = cf_report(test_generator, pred, labels)
-    plot_clf(cf)
-
-    return cf
+    plot_clf(cf, title)
+    true = results.True_Label.value_counts()
+    correct = results.True_Label[results.True_Label == results.Predictions].value_counts()
+    accurate = pd.DataFrame((correct / true).sort_values(ascending=False)).rename({'True_Label': 'Accuracy'},
+                                                                                  axis=1)
+    return accurate
 
 
 def cf_report(test_generator, pred, labels):
