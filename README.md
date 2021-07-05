@@ -15,7 +15,7 @@ ___
 9. [CREDITS](#credits)
 10. [SOURCES](#sources)
 
-##INTRODUCTION
+## INTRODUCTION
 ___
 *Museums are important hubs of recorded cultural history. However, they struggle with budget cuts and rely on increased audience engagement to encourage economic support. Some museums, particularly smaller and lesser known ones, are not able to offer programs and activities that actively engage people in their local communities. With globalization and the internet, appreciating art has become a hugely popular experience shared by many people from more diverse backgrounds. There is an opportunity to reach and teach a broader group of people. However, it can be intimidating and confusing to look at a work of art and not understand why it was and continues to be culturally significant and important, especially for budding art enthusiasts. This can be made easier by being able to identify the style of a painting. For this project I will create a machine learning model that classifies the art style of a painting based on its image.* 
 
