@@ -147,7 +147,7 @@ Having a very small dataset made it very difficult for the base model to continu
 
 Here we can see how well each individual class is predicted. While, Abstract Expressionism isn't correctly predicted at all, the Pre-Trained and Fine-Tuned model still predicts 2/3rds of the classes above 70%.
 
-### BEST MODEL: PRE-TRAINED RESNET50 ON IMAGENET v. CNN BASE MODEL
+### BEST MODEL: PRE-TRAINED RESNET50 ON IMAGENET v. FINE TUNED MODEL
 ___
 ![metric2](./img_metrics/metric_comparison1.jpg)
 
