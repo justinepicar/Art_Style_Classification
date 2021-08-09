@@ -17,7 +17,19 @@ ___
 
 ## INTRODUCTION
 ___
-*Museums are important hubs of recorded cultural history. However, they struggle with budget cuts and rely on increased audience engagement to encourage economic support. Some museums, particularly smaller and lesser known ones, are not able to offer programs and activities that actively engage people in their local communities. With globalization and the internet, appreciating art has become a hugely popular experience shared by many people from more diverse backgrounds. There is an opportunity to reach and teach a broader group of people. However, it can be intimidating and confusing to look at a work of art and not understand why it was and continues to be culturally significant and important, especially for budding art enthusiasts. This can be made easier by being able to identify the style of a painting. For this project I will create a machine learning model that classifies the art style of a painting based on its image.* 
+*Museums are important hubs of recorded cultural history. However, they struggle with budget cuts
+and rely on increased audience engagement to encourage economic support. 
+Some museums, particularly smaller and lesser known ones, are not able to offer programs and activities 
+that actively engage people in their local communities. 
+New art enthusiasts can also be intimidated by art without background knowledge.* 
+
+*An online poll from
+art start-up Meural shows that from a group of 1,000 people, only 18% of all ages in the US could identify who painted
+**The Girl with the Pearl Earring** (Hint: It's Johannes Vermeer!). However, 20% of people said they would appreciate art
+if it was more accessible. With globalization and the internet, appreciating art has become a hugely popular experience shared 
+by many people from more diverse backgrounds. There is an opportunity to reach and teach a broader group
+of people. This can be made easier by being able to identify the style of a painting. 
+For this project I will create a machine learning model that classifies the art style of a painting based on its image.* 
 
 ## DATA
 ___
@@ -26,8 +38,8 @@ To train the models, we will be using Icaros’ Best Artworks of All Time Datase
 * [BEST ARTWORKS OF ALL TIME](https://www.kaggle.com/ikarus777/best-artworks-of-all-time)
 
 We will be using the following packages:
-* __keras__ for training
-* __skimage__ for eda visualization
+* __keras__ for training and modeling data
+* __skimage, maplotlib.pyplot,__ and __seaborn__ for visualizing the raw data, pre-processed images, and metrics
 * __graphviz__ and __pydot__ for neural network visualization
 
 ## DATA CLEANING/DATA WRANGLING
@@ -93,7 +105,6 @@ After visualizing the data, it’s very clear that the data is highly imbalanced
 To see if there are any patterns within each class, I looked at the pixel intensity of a random sample of images from the training dataset. Based on the results, some images are overexposed or underexposed and should be normalized during the pre-processing stage to better train the model.
 
 ![art4](./graphs/pixel_intensity.jpg)
-
 
 ## METHODOLOGY
 ___
