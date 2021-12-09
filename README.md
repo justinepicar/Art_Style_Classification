@@ -146,9 +146,9 @@ Again, to overcome the limitation of having a small dataset, we will be using we
 ___
 ![metric1](./img_metrics/train_val_accuracy.jpg)
 
-Based on the results for each model, it's very clear that the fine tuned RESNET50 and pre-trained RESNET50 performs the best, followed by the simple CNN model with a validation accuracy of ~88, ~87% and ~76% at 25 epochs respectively. 
+Based on the results for each model, it's very clear that the fine-tuned RESNET50 and pre-trained RESNET50 performs the best, followed by the simple CNN model with a validation accuracy of ~88, ~87% and ~76% at 25 epochs respectively. 
 
-The RESNET50 and weighted RESNET50 we created performs signficantly worse with a validation accuracy of at ~53% and ~12% respectively at 25 epochs. This could potentially be attributed to a number of factors: the issue of gradient descent over many layers, lack of data, and underfitting. 
+The RESNET50 and weighted RESNET50 we created performs significantly worse with a validation accuracy of at ~53% and ~12% respectively at 25 epochs. This could potentially be attributed to a number of factors such as lack of data and underfitting. 
 
 This is especially noted for the weighted models. There aren't enough images in the smaller classes to balance the data and learn from. Abstract Expressionism is the hardest style to detect due to the small amount of images in each class.
 
